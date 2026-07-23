@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+             <meta name="viewport" content="width=device-width, initial-scale=1">
+                                <!-- head -->
+                <base href="https://yu.ctu.edu.vn/thong-bao/20-logo-chinh-thuc-truong-dai-hoc-can-tho.html" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Super User" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Logo chính thức trường Đại học Cần Thơ</title>
+	<link href="/templates/ts_news247/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/media/system/css/modal.css?aa124cea821693ec3ef479770a8f38d4" rel="stylesheet" type="text/css" />
+	<link href="/templates/ts_news247/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ts_news247/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ts_news247/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/ts_news247/css/presets/preset1.css" rel="stylesheet" type="text/css" class="preset" />
+	<link href="/templates/ts_news247/css/frontend-edit.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+.x33t9{visibility:hidden}#sp-top-bar{ background-color:#f5f5f5;color:#999999; }
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"ceeb65b9f3960056a1060a87e5f16b04","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?aa124cea821693ec3ef479770a8f38d4" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?aa124cea821693ec3ef479770a8f38d4" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?aa124cea821693ec3ef479770a8f38d4" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?aa124cea821693ec3ef479770a8f38d4" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?aa124cea821693ec3ef479770a8f38d4" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-core.js?aa124cea821693ec3ef479770a8f38d4" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?aa124cea821693ec3ef479770a8f38d4" type="text/javascript"></script>
+	<script src="/media/system/js/modal.js?aa124cea821693ec3ef479770a8f38d4" type="text/javascript"></script>
+	<script src="/templates/ts_news247/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/templates/ts_news247/js/jquery.sticky.js" type="text/javascript"></script>
+	<script src="/templates/ts_news247/js/main.js" type="text/javascript"></script>
+	<script src="/templates/ts_news247/js/progressbar.js" type="text/javascript"></script>
+	<script src="/templates/ts_news247/js/frontend-edit.js" type="text/javascript"></script>
+	<script src="https://yu.ctu.edu.vn/modules/mod_news_pro_gk5/interface/scripts/engine.jquery.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			initSqueezeBox();
+			$(document).on('subform-row-add', initSqueezeBox);
+
+			function initSqueezeBox(event, container)
+			{
+				SqueezeBox.assign($(container || document).find('a.modal').get(), {
+					parse: 'rel'
+				});
+			}
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		
+var sp_preloader = '';
+
+var sp_gotop = '0';
+
+var sp_offanimation = '';
+
+	</script>
+	<meta property="og:url" content="https://yu.ctu.edu.vn/thong-bao/20-logo-chinh-thuc-truong-dai-hoc-can-tho.html" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Logo chính thức trường Đại học Cần Thơ" />
+	<meta property="og:description" content="Hiện tại trên mạng có nhiều "phiên bản" logo trường Đại học Cần Thơ, Văn phòng Đoàn trường xin thông tin đến các bạn Logo chính xác mà trường đã đăng ký sở..." />
+
+                                </head>
+                <body class="site com-content view-article no-layout no-task itemid-138 en-gb ltr  layout-fluid off-canvas-menu-init">
+
+                    <div class="body-wrapper">
+                        <div class="body-innerwrapper">
+                            <section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top1" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div id="ts_date105" class="ts_date_area ">
+	<i class="fa fa-calendar-check-o"> </i>
+ 	July 23, 2026</div></div></div><div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
+<li class="item-131"><a href="/gioi-thieu.html" > Giới thiệu</a></li><li class="item-132"><a href="https://yu.ctu.edu.vn/bch/2995-dtn-nk-25-30.html" > BCH Đoàn TN</a></li><li class="item-133"><a href="https://yu.ctu.edu.vn/bch/3151-hsv-nk-25-28.html" > BCH Hội SV</a></li><li class="item-134"><a href="https://yu.ctu.edu.vn/lien-he/1230-doan-hoi-ctu.html" target="_blank" > Liên hệ</a></li></ul>
+</div></div></div></div></div></div></section><header id="sp-header"><div class="container"><div class="row"><div id="sp-menu" class="col-xs-4 col-sm-12 col-md-12"><div class="sp-column ">			<a id="offcanvas-toggler" href="#"><i class="fa fa-bars"></i></a>
+		</div></div></div></div></header><section id="sp-page-title"><div class="row"><div id="sp-title" class="col-sm-12 col-md-12"><div class="sp-column "></div></div></div></section><section id="sp-main-body"><div class="container"><div class="row"><div id="sp-component" class="col-sm-9 col-md-9"><div class="sp-column "><div id="system-message-container">
+	</div>
+<article class="item item-page" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="inLanguage" content="en-GB" />
+	
+
+	<div class="entry-header">
+		
+		
+
+					<h2 itemprop="name">
+									Logo chính thức trường Đại học Cần Thơ							</h2>
+												</div><!-- entry header end -->
+
+	<div class="article-info-area">
+
+
+					<div class="article-info-wrapper">
+					<dl class="article-info">
+
+		
+			<dt class="article-info-term"></dt>	
+				
+			
+			
+			
+			
+							<dd class="published">
+	<i class="fa fa-calendar-o"></i>
+	<time datetime="2020-03-05T09:39:20+07:00" itemprop="datePublished" data-toggle="tooltip" title="Published Date">
+		05 March 2020	</time>
+</dd>			
+		
+					
+			
+							<dd class="hits">
+	<span class="fa fa-eye"></span>
+	<meta itemprop="interactionCount" content="UserPageVisits:55586" />
+	Hits: 55586</dd>					
+		
+
+	</dl>
+			</div>
+		
+
+									
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<button class="btn dropdown-toggle" type="button" id="dropdownMenuButton-20" aria-label="User tools"
+				data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="icon-cog" aria-hidden="true"></span>
+					<span class="caret" aria-hidden="true"></span>
+				</button>
+								<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-20">
+											<li class="print-icon"> <a href="/thong-bao/20-logo-chinh-thuc-truong-dai-hoc-can-tho.html?tmpl=component&amp;print=1&amp;layout=default" title="Print article < Logo chính thức trường Đại học Cần Thơ >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Print	</a> </li>
+																			</ul>
+			</div>
+		
+	</div>
+					
+	</div><!-- info area end -->
+
+
+
+
+	
+
+	
+	
+	
+	
+				
+	
+			<div itemprop="articleBody">
+		<p style="text-align: justify;">Hiện tại trên mạng có nhiều "phiên bản" logo trường Đại học Cần Thơ, Văn phòng Đoàn trường xin thông tin đến các bạn Logo chính xác mà trường đã đăng ký sở hữu trí tuệ và bản quyền.</p>
+ 
+<p style="text-align: justify;"><strong>File hình ảnh:</strong></p>
+<p><a href="/images/upload/article/2020/03/0305-logo-ctu.png" target="_blank" rel="noopener noreferrer"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/upload/article/2020/03/0305-logo-ctu.png" width="400" /></a></p>
+<p style="text-align: justify;"><strong>Phần mô tả:</strong></p>
+<p style="text-align: center;"><img src="/images/upload/article/2020/03/0305-mota-logo.jpg" alt="" /></p>
+<p><strong>File thiết kế Corel: <a href="https://drive.google.com/file/d/1Nh7j7kYe7lNvPuwpZrOvGFnKIwf9URmd/" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1Nh7j7kYe7lNvPuwpZrOvGFnKIwf9URmd/</a></strong></p>
+<p>Nhờ các bạn tuyên truyền và sử dụng đúng logo Đại học Cần Thơ.</p>	</div>
+
+
+
+			<div class="article-footer-wrap">
+			<div class="article-footer-top">
+
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+			<div id="sp-comments"></div>		</div>
+	
+	
+
+	
+
+	<ul class="pager pagenav">
+	<li class="previous">
+		<a class="hasTooltip" title="Cuộc thi “Tìm hiểu 90 năm Ngày truyền thống ngành Tuyên giáo của Đảng”" aria-label="Previous article: Cuộc thi “Tìm hiểu 90 năm Ngày truyền thống ngành Tuyên giáo của Đảng”" href="/thong-bao/21-cuoc-thi-tim-hieu-90-nam-ngay-truyen-thong-nganh-tuyen-giao-cua-dang.html" rel="prev">
+			<span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Prev</span>		</a>
+	</li>
+	<li class="next">
+		<a class="hasTooltip" title="Hội thi &quot;Thủ lĩnh Sinh viên trường Đại học Cần Thơ&quot; năm 2020" aria-label="Next article: Hội thi &quot;Thủ lĩnh Sinh viên trường Đại học Cần Thơ&quot; năm 2020" href="/thong-bao/24-hoi-thi-thu-linh-sinh-vien-dhct-2020.html" rel="next">
+			<span aria-hidden="true">Next</span> <span class="icon-chevron-right" aria-hidden="true"></span>		</a>
+	</li>
+</ul>
+				
+	
+	
+	
+
+</article></div></div><div id="sp-right" class="col-sm-3 col-md-3"><div class="sp-column class2"><div class="sp-module  nspBlock block-title"><h3 class="sp-module-title">Thông báo</h3><div class="sp-module-content">	<div class="nspMain  nspBlock block-title" id="nsp-nsp-118" data-config="{
+				'animation_speed': 400,
+				'animation_interval': 5000,
+				'animation_function': 'Fx.Transitions.Expo.easeIn',
+				'news_column': 1,
+				'news_rows': 5,
+				'links_columns_amount': 0,
+				'links_amount': 0
+			}">		
+				
+					<div class="nspArts bottom" style="width:100%;">
+								<div class="nspArtScroll1">
+					<div class="nspArtScroll2 nspPages1">
+																	<div class="nspArtPage active nspCol1">
+																				<div class="nspArt nspCol1" style="padding:0 0 10px 0;">
+								<h4 class="nspHeader tleft fnone"><a href="/thong-bao/3194-dtn-tt-viec-lam-sps.html"  title="Thông báo tuyển dụng Nhân viên xử lý dữ liệu (BPO) tại Công ty SPS Việt Nam" target="_self">Thông báo tuyển dụng Nhân viên xử lý dữ liệu (BPO) tại Công ty SPS Việt Nam</a></h4><p class="nspInfo nspInfoCon nspInfo1 tleft fnull"><span class="nspDate">20-07-2026</span></p><p class="nspInfo nspInfoCon nspInfo2 tleft fleft"></p>							</div>
+																															<div class="nspArt nspCol1" style="padding:0 0 10px 0;">
+								<h4 class="nspHeader tleft fnone"><a href="/thong-bao/3193-cuoc-thi-video-ctvnns-2026.html"  title="Thông báo phát động cuộc thi Video “Chung tay vì nguồn nước sạch”" target="_self">Thông báo phát động cuộc thi Video “Chung tay vì nguồn nước sạch”</a></h4><p class="nspInfo nspInfoCon nspInfo1 tleft fnull"><span class="nspDate">17-07-2026</span></p><p class="nspInfo nspInfoCon nspInfo2 tleft fleft"></p>							</div>
+																															<div class="nspArt nspCol1" style="padding:0 0 10px 0;">
+								<h4 class="nspHeader tleft fnone"><a href="/thong-bao/3191-hmtn-sdtd-2026.html"  title="Mời sinh viên tham dự Lễ tôn vinh người hiến máu tiêu biểu và ngày hội hiến máu &quot;Sắc đỏ Tây đô&quot; năm 2026" target="_self">Mời sinh viên tham dự Lễ tôn vinh người hiến máu tiêu biểu và ngày hội hiến máu &quot;Sắc đỏ Tây đô&quot; năm 2026</a></h4><p class="nspInfo nspInfoCon nspInfo1 tleft fnull"><span class="nspDate">13-07-2026</span></p><p class="nspInfo nspInfoCon nspInfo2 tleft fleft"></p>							</div>
+																															<div class="nspArt nspCol1" style="padding:0 0 10px 0;">
+								<h4 class="nspHeader tleft fnone"><a href="/thong-bao/3189-drl-ht-thuoc-la-2026.html"  title="Thông báo danh sách sinh viên được cộng điểm rèn luyện và xác nhận hoàn thành tiêu chuẩn “Đạo đức tốt” Hội thi “Tìm hiểu về Luật Phòng, chống tác hại thuốc lá, sáng kiến về phòng, chống tác hại thuốc lá trong sinh viên Đại học Cần Thơ” năm 2026" target="_self">Thông báo danh sách sinh viên được cộng điểm rèn luyện và xác nhận hoàn thành tiêu chuẩn “Đạo đức tốt” Hội thi “Tìm hiểu về Luật Phòng, chống tác hại thuốc lá, sáng kiến về phòng, chống tác hại thuốc &hellip;</a></h4><p class="nspInfo nspInfoCon nspInfo1 tleft fnull"><span class="nspDate">11-07-2026</span></p><p class="nspInfo nspInfoCon nspInfo2 tleft fleft"></p>							</div>
+																															<div class="nspArt nspCol1" style="padding:0 0 10px 0;">
+								<h4 class="nspHeader tleft fnone"><a href="/thong-bao/3185-dtn-gt-ttdn-2026.html"  title="Phát động Giải thưởng toàn quốc về thông tin đối ngoại lần thứ XII" target="_self">Phát động Giải thưởng toàn quốc về thông tin đối ngoại lần thứ XII</a></h4><p class="nspInfo nspInfoCon nspInfo1 tleft fnull"><span class="nspDate">30-06-2026</span></p><p class="nspInfo nspInfoCon nspInfo2 tleft fleft"></p>							</div>
+												</div>
+																</div>
+
+									</div>
+			</div>
+		
+				
+			</div>
+</div></div></div></div></div></div></section><footer id="sp-footer"><div class="container"><div class="row"><div id="sp-footer1" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
+<li class="item-139"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdwYNSF-sx5Gfv71PzjiFN2eOdiy5cp0xx3k4Seh8IngXuA4g/viewform" target="_blank" > ----- Gửi tin bài -----</a></li></ul>
+</div></div><span class="sp-copyright">&copy; 2026. All Rights Reserved.</span></div></div></div></div></footer>                        </div> <!-- /.body-innerwrapper -->
+                    </div> <!-- /.body-innerwrapper -->
+
+                    <!-- Off Canvas Menu -->
+                    <div class="offcanvas-menu">
+                        <a href="#" class="close-offcanvas"><i class="fa fa-remove"></i></a>
+                        <div class="offcanvas-inner">
+                                                          <div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
+<li class="item-101"><a href="/" > <img src="/images/upload/header/logo_home.png" alt="Home" /></a></li><li class="item-103"><a href="/theo-chan-bac.html" > Theo chân Bác</a></li><li class="item-104  deeper parent"><a href="/dtn.html" > Đoàn Thanh niên</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-104"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-104"><li class="item-109"><a href="/dtn/cong-tac-giao-duc.html" > Công tác giáo dục</a></li><li class="item-110  deeper parent"><a href="/dtn/bpt.html" > Ba phong trào</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-110"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-110"><li class="item-125"><a href="/dtn/bpt/thanh-nien-tinh-nguyen.html" > Thanh niên tình nguyện</a></li><li class="item-126"><a href="/dtn/bpt/tuoi-tre-sang-tao.html" > Tuổi trẻ sáng tạo</a></li><li class="item-127"><a href="/dtn/bpt/tuoi-tre-xung-kich-bv-to-quoc.html" > Tuổi trẻ xung kích bảo vệ tổ quốc</a></li></ul></li><li class="item-111  deeper parent"><a href="/dtn/bct.html" > Ba chương trình</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-111"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-111"><li class="item-128"><a href="/dtn/bct/hoc-tap-nckh.html" > Học tập - NCKH</a></li><li class="item-129"><a href="/dtn/bct/khoi-nghiep-lap-nghiep.html" > Khởi nghiệp - Lập nghiệp</a></li><li class="item-130"><a href="/dtn/bct/ky-nang-the-chat-van-hoa.html" > Kỹ năng - Thể chất - Văn hóa</a></li></ul></li><li class="item-113"><a href="/dtn/hoi-nhap-quoc-te.html" > Hội nhập quốc tế</a></li><li class="item-112"><a href="/dtn/xay-dung-doan.html" > Xây dựng Đoàn</a></li></ul></li><li class="item-105  deeper parent"><a href="/hsv.html" > Hội Sinh viên</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-105"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-105"><li class="item-114  deeper parent"><a href="/hsv/sv5t.html" > Sinh viên 5 tốt</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-114"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-114"><li class="item-120"><a href="/hsv/sv5t/dao-duc-tot.html" > Đạo đức tốt</a></li><li class="item-122"><a href="/hsv/sv5t/hoc-tap-tot.html" > Học tập tốt</a></li><li class="item-121"><a href="/hsv/sv5t/the-luc-tot.html" > Thể lực tốt</a></li><li class="item-123"><a href="/hsv/sv5t/tinh-nguyen-tot.html" > Tình nguyện tốt</a></li><li class="item-124"><a href="/hsv/sv5t/hoi-nhap-tot.html" > Hội nhập tốt</a></li></ul></li><li class="item-116"><a href="/hsv/ho-tro-sinh-vien.html" > Hỗ trợ sinh viên</a></li><li class="item-115"><a href="/hsv/xay-dung-hoi.html" > Xây dựng Hội</a></li></ul></li><li class="item-106  deeper parent"><a href="#" > Chuyên mục</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-106"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-106"><li class="item-117"><a href="/chuyen-muc/mt-1-tin-tot-mn-1-cau-chuyen-dep.html" > Mỗi ngày một tin tốt - Mỗi tuần một câu chuyện đẹp</a></li><li class="item-118"><a href="/chuyen-muc/bai-hoc-ll-chinh-tri.html" > Bài học lý luận chính trị</a></li><li class="item-119"><a href="/chuyen-muc/tuyen-truyen-nq-phap-luat.html" > Tuyên truyền NQ - Pháp luật</a></li><li class="item-141"><a href="/chuyen-muc/tsum.html" > Thắp sáng ước mơ</a></li></ul></li><li class="item-107  deeper parent"><a href="#" > Văn bản</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-107"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-107"><li class="item-135"><a href="/van-ban/doan-thanh-nien.html" > Đoàn Thanh niên</a></li><li class="item-136"><a href="/van-ban/hoi-sinh-vien.html" > Hội Sinh viên</a></li></ul></li><li class="item-108"><a href="/mau-bieu.html" > Mẫu biểu</a></li></ul>
+</div></div>
+                                                    </div> <!-- /.offcanvas-inner -->
+                    </div> <!-- /.offcanvas-menu -->
+
+                    
+                    
+                    <!-- Preloader -->
+                    
+                    <!-- Go to top -->
+                    
+                </body>
+                </html>

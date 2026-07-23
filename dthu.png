@@ -1,0 +1,589 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Về ý nghĩa của logo Trường Đại học Đồng Tháp
+</title><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="description" content="Website chia sẻ thông tin phục vụ cho quá trình học tập, nghiên cứu của sinh viên, các hoạt động của trường Đại học Đồng Tháp" /><meta name="keywords" content="dai hoc; dong thap; university; vietnam; saigon; hanoi; dongthap;" /><link rel="shortcut icon" type="image/x-icon" href="img/logo_icon.png" /><link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,700|Open+Sans" rel="stylesheet" /><link rel="stylesheet" href="css/styles-merged.css" /><link rel="stylesheet" href="css/style.css" /><link rel="stylesheet" href="css/custom.css" /><link href="css/fancybox/jquery.fancybox.css" rel="stylesheet" /><link href="css/popup.css" rel="stylesheet" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" /><meta property="og:type" content="article" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <meta name="revisit-after" content="1 days" /><meta http-equiv="Content-Language" content="vi" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta property="fb:pages" content="494399367294036" />
+    
+    <!--[if lt IE 9]>
+      <script src="js/vendor/html5shiv.min.js"></script>
+      <script src="js/vendor/respond.min.js"></script>
+    <![endif]-->
+    
+    <style>
+   table tr:nth-child(even) {
+    background-color: #f8f6ff;
+  
+}
+   table th {
+    font-family: Lato-Bold;
+    font-size: 18px;
+    color: #fff;
+    line-height: 1.4;
+    background-color: #6c7ae0;
+}
+    </style>
+ 
+  
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#logo-metal").click(function () {
+                $("#links").slideDown(1000);
+                $("#logo-metal").hide();
+                $("#close").show();
+            });
+
+            $("#close").click(function () {
+                $("#close").hide();
+                $("#links").slideUp(1000);
+                $("#logo-metal").show();
+            });
+        });
+    </script>
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-62238928-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-62238928-1');
+    </script>
+     <meta name="geo.region" content="VN-45" /><meta name="geo.placename" content="Thành phố Cao Lãnh" /><meta name="geo.position" content="10.423106;105.639776" /><meta name="ICBM" content="10.423106, 105.639776" /></head>
+<body>
+
+    <div class="col-lg-3 col-md-3 col-sm-3 probootstrap-top-social fixposition">
+        <ul>
+            <li style="margin-bottom:2px;">  <a href="https://zalo.me/3310098993588621225" target="_blank" style="display: block; width: 25px;   background: url('img/zalo.png') center center no-repeat; text-indent: -9999px; float: left; margin-left: 2px;">website tiếng Anh</a></li> 
+            <li><a href="https://www.facebook.com/dongthapuni/" target="_blank"><i class="icon-facebook2"></i></a></li>
+            
+            <li><a href="videos.aspx?idmn=99" target="_blank"><i class="icon-youtube"></i></a></li>
+            <li><a href="Phones.aspx?idmn=53"><i class="icon-phone"></i></a></li>
+            <li><a href="Googlemap.aspx" target="_blank"><i class="icon-location2"></i></a></li>
+            <li><a href="MailBox.aspx" target="_blank"><i class="icon-mail"></i></a></li>
+      </ul>       
+
+    </div>
+    <form method="post" action="./pView.aspx?idp=103&amp;idmn=41" id="frmMain">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTkyOTI3NTExNA9kFgJmD2QWAgIDD2QWFAIDDw8WAh4EVGV4dAXBLTxkaXYgaWQ9J25hdmJhci1jb2xsYXBzZScgY2xhc3M9J25hdmJhci1jb2xsYXBzZSBjb2xsYXBzZSc+PHVsIGNsYXNzPSduYXYgbmF2YmFyLW5hdiBuYXZiYXItcmlnaHQnPjxsaSBjbGFzcz0nZHJvcGRvd24nPjxhIGhyZWY9JyMnIGRhdGEtdG9nZ2xlPSdkcm9wZG93bicgY2xhc3M9J2Ryb3Bkb3duLXRvZ2dsZSc+PGRpdiBjbGFzcz0ncm9vdCc+R0nhu5pJIFRISeG7hlU8L2Rpdj48L2E+PHVsIGNsYXNzPSdkcm9wZG93bi1tZW51Jz48bGk+PGEgaHJlZj0ncFZpZXcuYXNweD9pZHA9NCZpZG1uPTgnPkdp4bubaSB0aGnhu4d1IHbhu4EgRFRoVTwvYT48L2xpPjxsaT48YSBocmVmPSdwVmlldy5hc3B4P2lkcD0yMTMmaWRtbj0xNjInPlPhu6kgbeG6oW5nLCBU4bqnbSBuaMOsbiwgVHJp4bq/dCBsw70gZ2nDoW8gZOG7pWMgdsOgIEjhu4cgZ2nDoSB0cuG7iyBj4buRdCBsw7VpPC9hPjwvbGk+PGxpPjxhIGhyZWY9J3BWaWV3LmFzcHg/aWRwPTExOSZpZG1uPTcnPlRow7RuZyDEkWnhu4dwIGPhu6dhIEhp4buHdSB0csaw4bufbmc8L2E+PC9saT48bGk+PGEgaHJlZj0ncFZpZXcuYXNweD9pZHA9OTc0JmlkbW49MjE3Jz5CYW4gR2nDoW0gaGnhu4d1PC9hPjwvbGk+PGxpPjxhIGhyZWY9J3BWaWV3LmFzcHg/aWRwPTIyJmlkbW49MTEnPkjhu5lpIMSR4buTbmcga2hvYSBo4buNYzwvYT48L2xpPjxsaT48YSBocmVmPSdnb3B5LmFzcHgnIHRhcmdldD0nX2JsYW5rJz5Hw7NwIMO9IC0gSGnhur9uIGvhur88L2E+PC9saT48bGk+PGEgaHJlZj0ncFZpZXcuYXNweD9pZHA9ODg5JmlkbW49MTgwJz5TxqEgxJHhu5MgdOG7lSBjaOG7qWM8L2E+PC9saT48bGk+PGEgaHJlZj0ncFZpZXcuYXNweD9pZHA9ODg4JmlkbW49MjAyJz5DYSBraMO6YyBUcnV54buBbiB0aOG7kW5nPC9hPjwvbGk+PGxpIGNsYXNzPSdkcm9wZG93bi1zdWJtZW51IGRyb3Bkb3duJz48YSBocmVmPScjJyBkYXRhLXRvZ2dsZT0nZHJvcGRvd24nIGNsYXNzPSdkcm9wZG93bi10b2dnbGUnPjxzcGFuPsSQ4bqjbmcgLSDEkG/DoG4gdGjhu4M8L3NwYW4+PC9hPjx1bCBjbGFzcz0nZHJvcGRvd24tbWVudSc+PGxpPjxhIGhyZWY9J2h0dHBzOi8vdnBkdS5kdGh1LmVkdS52bi8nIHRhcmdldD0nX2JsYW5rJz7EkOG6o25nIOG7p3k8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cHM6Ly9jb25nZG9hbi5kdGh1LmVkdS52bi8nIHRhcmdldD0nX2JsYW5rJz5Dw7RuZyDEkW/DoG48L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL2RvYW50aGFuaG5pZW4uZHRodS5lZHUudm4nIHRhcmdldD0nX2JsYW5rJz7EkG/DoG4gdGhhbmggbmnDqm48L2E+PC9saT48L3VsPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0nZHJvcGRvd24nPjxhIGhyZWY9JyMnIGRhdGEtdG9nZ2xlPSdkcm9wZG93bicgY2xhc3M9J2Ryb3Bkb3duLXRvZ2dsZSc+PGRpdiBjbGFzcz0ncm9vdCc+xJDDgE8gVOG6oE88L2Rpdj48L2E+PHVsIGNsYXNzPSdkcm9wZG93bi1tZW51Jz48bGkgY2xhc3M9J2Ryb3Bkb3duLXN1Ym1lbnUgZHJvcGRvd24nPjxhIGhyZWY9JyMnIGRhdGEtdG9nZ2xlPSdkcm9wZG93bicgY2xhc3M9J2Ryb3Bkb3duLXRvZ2dsZSc+PHNwYW4+xJDhuqFpIGjhu41jICYgQ2FvIMSR4bqzbmc8L3NwYW4+PC9hPjx1bCBjbGFzcz0nZHJvcGRvd24tbWVudSc+PGxpPjxhIGhyZWY9J2todW5nLWNodW9uZy10cmluaC1kYW8tdGFvLmFzcHgnIHRhcmdldD0nX2JsYW5rJz5OZ8OgbmggxJHDoG8gdOG6oW88L2E+PC9saT48bGk+PGEgaHJlZj0naXRlbXMuYXNweD9pZG1uPTE3NCc+UXV5IGNo4bq/IMSRw6BvIHThuqFvPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2l0ZW1zLmFzcHg/aWRtbj0xOCc+UXV5IHRyw6xuaCDEkcOgbyB04bqhbzwvYT48L2xpPjxsaT48YSBocmVmPSdpdGVtcy5hc3B4P2lkbW49MTY2Jz5RdXkgxJHhu4tuaCDEkcOhbmggZ2nDoTwvYT48L2xpPjxsaT48YSBocmVmPSdwVmlldy5hc3B4P2lkcD00MzUmaWRtbj0xNyc+QmnDqm4gY2jhur8gbsSDbSBo4buNYzwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwczovL2Fhby5kdGh1LmVkdS52bi9OZXdzLmFzcHg/aWQ9NzE1JyB0YXJnZXQ9J19ibGFuayc+VGjDtG5nIHRpbiB04buRdCBuZ2hp4buHcDwvYT48L2xpPjxsaT48YSBocmVmPSdsaXN0cy5hc3B4P2lkbW49MTczJz7EkOG7gSDDoW48L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSdkcm9wZG93bi1zdWJtZW51IGRyb3Bkb3duJz48YSBocmVmPScjJyBkYXRhLXRvZ2dsZT0nZHJvcGRvd24nIGNsYXNzPSdkcm9wZG93bi10b2dnbGUnPjxzcGFuPlNhdSDEkeG6oWkgaOG7jWM8L3NwYW4+PC9hPjx1bCBjbGFzcz0nZHJvcGRvd24tbWVudSc+PGxpPjxhIGhyZWY9J3NwZWNpYWxpemVzLmFzcHg/aWRtbj04Myc+TmfDoG5oIMSRw6BvIHThuqFvPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHBzOi8vZHRzZGguZHRodS5lZHUudm4vTmV3cy5hc3B4P2lkPTE5NCcgdGFyZ2V0PSdfYmxhbmsnPlF1eSBjaOG6vyDEkcOgbyB04bqhbzwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwczovL2R0c2RoLmR0aHUuZWR1LnZuL0JpZXVNYXUuYXNweCcgdGFyZ2V0PSdfYmxhbmsnPkJp4buDdSBt4bqrdTwvYT48L2xpPjxsaT48YSBocmVmPSdsaXN0cy5hc3B4P2lkbW49MTcxJz7EkOG7gSDDoW48L2E+PC9saT48L3VsPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0nZHJvcGRvd24nPjxhIGhyZWY9JyMnIGRhdGEtdG9nZ2xlPSdkcm9wZG93bicgY2xhc3M9J2Ryb3Bkb3duLXRvZ2dsZSc+PGRpdiBjbGFzcz0ncm9vdCc+TkdIScOKTiBD4buoVTwvZGl2PjwvYT48dWwgY2xhc3M9J2Ryb3Bkb3duLW1lbnUnPjxsaT48YSBocmVmPSdpdGVtcy5hc3B4P2lkbW49ODcnPlRow7RuZyBiw6FvPC9hPjwvbGk+PGxpIGNsYXNzPSdkcm9wZG93bi1zdWJtZW51IGRyb3Bkb3duJz48YSBocmVmPScjJyBkYXRhLXRvZ2dsZT0nZHJvcGRvd24nIGNsYXNzPSdkcm9wZG93bi10b2dnbGUnPjxzcGFuPkhv4bqhdCDEkeG7mW5nIEtIJkNOPC9zcGFuPjwvYT48dWwgY2xhc3M9J2Ryb3Bkb3duLW1lbnUnPjxsaT48YSBocmVmPSdpdGVtcy5hc3B4P2lkbW49MjIwJz5TaW5oIHZpw6puPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2l0ZW1zLmFzcHg/aWRtbj0yMjEnPkdp4bqjbmcgdmnDqm48L2E+PC9saT48bGk+PGEgaHJlZj0naXRlbXMuYXNweD9pZG1uPTIzNyc+SOG7mWkgbmdo4buLIGjhu5lpIHRo4bqjbzwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J2Ryb3Bkb3duLXN1Ym1lbnUgZHJvcGRvd24nPjxhIGhyZWY9JyMnIGRhdGEtdG9nZ2xlPSdkcm9wZG93bicgY2xhc3M9J2Ryb3Bkb3duLXRvZ2dsZSc+PHNwYW4+UXV5IMSR4buLbmgsIEJp4buDdSBt4bqrdTwvc3Bhbj48L2E+PHVsIGNsYXNzPSdkcm9wZG93bi1tZW51Jz48bGk+PGEgaHJlZj0ncmVzZm9ybXMuYXNweD9pZG1uPTIzMSc+UXV5IMSR4buLbmg8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL2toY24uZHRodS5lZHUudm4vaW5kZXgucGhwP2xhbmd1YWdlPXZpJm52PXRob25nLXRpbi1raG9hLWhvYyZvcD1CaWV1LW1hdS1OQ0tIJyB0YXJnZXQ9J19ibGFuayc+Qmnhu4N1IG3huqt1PC9hPjwvbGk+PC91bD48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vZHRodWpzLnZuLycgdGFyZ2V0PSdfYmxhbmsnPlThuqFwIGNow60gS2hvYSBo4buNYzwvYT48L2xpPjxsaT48YSBocmVmPSdwVmlldy5hc3B4P2lkcD0xNjIxJmlkbW49MjM4Jz5UaMO0bmcgdGluIGvhur90IHF14bqjIE5naGnDqm4gY+G7qXU8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSdkcm9wZG93bic+PGEgaHJlZj0nIycgZGF0YS10b2dnbGU9J2Ryb3Bkb3duJyBjbGFzcz0nZHJvcGRvd24tdG9nZ2xlJz48ZGl2IGNsYXNzPSdyb290Jz5I4buiUCBUw4FDPC9kaXY+PC9hPjx1bCBjbGFzcz0nZHJvcGRvd24tbWVudSc+PGxpPjxhIGhyZWY9J05ld3MuYXNweD9pZG1uPTEnIHRhcmdldD0nX2JsYW5rJz5Ib+G6oXQgxJHhu5luZyBo4bujcCB0w6FjPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHBzOi8vaHRxdC5kdGh1LmVkdS52bi8nIHRhcmdldD0nX2JsYW5rJz5QaMOybmcgSOG7o3AgdMOhYyBxdeG7kWMgdOG6vzwvYT48L2xpPjxsaSBjbGFzcz0nZHJvcGRvd24tc3VibWVudSBkcm9wZG93bic+PGEgaHJlZj0nIycgZGF0YS10b2dnbGU9J2Ryb3Bkb3duJyBjbGFzcz0nZHJvcGRvd24tdG9nZ2xlJz48c3Bhbj5E4buxIMOhbiBo4bujcCB0w6FjPC9zcGFuPjwvYT48dWwgY2xhc3M9J2Ryb3Bkb3duLW1lbnUnPjxsaT48YSBocmVmPSdsaXN0cy5hc3B4P2lkbW49MjQ4Jz5E4buxIMOhbiBWSUVUTVVTPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2xpc3RzLmFzcHg/aWRtbj0yNDknPkThu7Egw6FuIEdyZWVuRURBc2lhPC9hPjwvbGk+PC91bD48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J2Ryb3Bkb3duJz48YSBocmVmPScjJyBkYXRhLXRvZ2dsZT0nZHJvcGRvd24nIGNsYXNzPSdkcm9wZG93bi10b2dnbGUnPjxkaXYgY2xhc3M9J3Jvb3QnPlRVWeG7gk4gU0lOSDwvZGl2PjwvYT48dWwgY2xhc3M9J2Ryb3Bkb3duLW1lbnUnPjxsaT48YSBocmVmPSdodHRwczovL3R1eWVuc2luaC5kdGh1LmVkdS52bi8nIHRhcmdldD0nX2JsYW5rJz5DaMOtbmggcXV5IDwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwczovL2xrZHQtYmRuLmR0aHUuZWR1LnZuLycgdGFyZ2V0PSdfYmxhbmsnPlbhu6thIGzDoG0gduG7q2EgaOG7jWM8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cHM6Ly9kdHNkaC5kdGh1LmVkdS52bi8nIHRhcmdldD0nX2JsYW5rJz5TYXUgxJHhuqFpIGjhu41jPC9hPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0nZHJvcGRvd24nPjxhIGhyZWY9JyMnIGRhdGEtdG9nZ2xlPSdkcm9wZG93bicgY2xhc3M9J2Ryb3Bkb3duLXRvZ2dsZSc+PGRpdiBjbGFzcz0ncm9vdCc+VEjGryBWSeG7hk48L2Rpdj48L2E+PHVsIGNsYXNzPSdkcm9wZG93bi1tZW51Jz48bGk+PGEgaHJlZj0naHR0cDovL3RodXZpZW4uZHRodS5lZHUudm4nIHRhcmdldD0nX2JsYW5rJz5UcnVuZyB0w6JtIEjhu41jIGxp4buHdSBMw6ogVsWpIEjDuW5nIDwvYT48L2xpPjxsaT48YSBocmVmPSdhbGJ1bXMuYXNweD9pZG1uPTU4Jz7huqJuaCBob+G6oXQgxJHhu5luZzwvYT48L2xpPjxsaT48YSBocmVmPSd2aWRlb3MuYXNweD9pZG1uPTk5Jz5WaWRlbyB24buBIERUaFU8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSdkcm9wZG93bic+PGEgaHJlZj0nIycgZGF0YS10b2dnbGU9J2Ryb3Bkb3duJyBjbGFzcz0nZHJvcGRvd24tdG9nZ2xlJz48ZGl2IGNsYXNzPSdyb290Jz5Dw5RORyBLSEFJPC9kaXY+PC9hPjx1bCBjbGFzcz0nZHJvcGRvd24tbWVudSc+PGxpPjxhIGhyZWY9J2xpc3RzLmFzcHg/aWRtbj0xMjUnPkJhIGPDtG5nIGtoYWk8L2E+PC9saT48bGk+PGEgaHJlZj0nbGlzdHMuYXNweD9pZG1uPTE3OSc+Vmnhu4djIGzDoG0gc2luaCB2acOqbjwvYT48L2xpPjxsaT48YSBocmVmPSdsaXN0cy5hc3B4P2lkbW49MTY5Jz5Cw6FvIGPDoW8gdGjGsOG7nW5nIG5pw6puPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2l0ZW1zLmFzcHg/aWRtbj0yMjgnPlRoaSDEkXVhIC0gS2hlbiB0aMaw4bufbmc8L2E+PC9saT48bGk+PGEgaHJlZj0naXRlbXMuYXNweD9pZG1uPTIzMCc+xJDDoW5oIGdpw6EsIHjhur9wIGxv4bqhaSB2acOqbiBjaOG7qWMgPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2l0ZW1zLmFzcHg/aWRtbj0yMzYnPkPDtG5nIEtoYWkgVGh14buZYyBMxKluaCBW4buxYyBUw6BpIENow61uaDwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vdHJhY3V1dmIuZHRodS5lZHUudm4vJyB0YXJnZXQ9J19ibGFuayc+VsSDbiBi4bqxbmcgY2jhu6luZyBjaOG7iTwvYT48L2xpPjwvdWw+PC9saT48L3VsPjwvdWw+ZGQCBQ8WAh8ABfwDPHVsPjxsaT48YSBocmVmPSdodHRwczovL2ZsZi5kdGh1LmVkdS52bi8nIHRhcmdldD0nX2JsYW5rJz5LaG9hIE5nb+G6oWkgbmfhu688L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cHM6Ly9jbmt0LmR0aHUuZWR1LnZuJyB0YXJnZXQ9J19ibGFuayc+S2hvYSBDw7RuZyBuZ2jhu4cgdsOgIEvhu7kgdGh14bqtdDwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwczovL2ZlbC5kdGh1LmVkdS52bicgdGFyZ2V0PSdfYmxhbmsnPiBLaG9hIEtpbmggdOG6vyAtIEx14bqtdDwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwczovL25udG5tdC5kdGh1LmVkdS52bicgdGFyZ2V0PSdfYmxhbmsnPktob2EgTsO0bmcgbmdoaeG7h3AsIFTDoGkgbmd1ecOqbiB2w6AgTcO0aSB0csaw4budbmc8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL3ZoZGwuZHRodS5lZHUudm4nIHRhcmdldD0nX2JsYW5rJz5LaG9hIFbEg24gaMOzYSAtIER1IGzhu4tjaCB2w6AgQ8O0bmcgdMOhYyB4w6MgaOG7mWk8L2E+PC9saT48L3VsPmQCBw8WAh8ABZoFPHVsPjxsaT48YSBocmVmPSdodHRwczovL21pdC5kdGh1LmVkdS52bi8nIHRhcmdldD0nX2JsYW5rJz5LaG9hIFPGsCBwaOG6oW0gVG/DoW4gLSBUaW48L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cHM6Ly9raG9hc3BraHRuLmR0aHUuZWR1LnZuLycgdGFyZ2V0PSdfYmxhbmsnPktob2EgU8awIHBo4bqhbSBLaG9hIGjhu41jIHThu7Egbmhpw6puPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly9raHhoLmR0aHUuZWR1LnZuLycgdGFyZ2V0PSdfYmxhbmsnPktob2EgU8awIHBo4bqhbSBLaG9hIGjhu41jIHjDoyBo4buZaTwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwczovL2tob2FnaWFvZHVjdGhtbi5kdGh1LmVkdS52bi8nIHRhcmdldD0nX2JsYW5rJz5LaG9hIEdpw6FvIGThu6VjIFRp4buDdSBo4buNYyAtIE3huqdtIG5vbjwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwczovL2ZwZS5kdGh1LmVkdS52bicgdGFyZ2V0PSdfYmxhbmsnPktob2EgR2nDoW8gZOG7pWMgVGjhu4MgY2jhuqV0IC0gU8awIHBo4bqhbSBOZ2jhu4cgdGh14bqtdDwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwczovL2dkY3QuZHRodS5lZHUudm4nIHRhcmdldD0nX2JsYW5rJz5LaG9hIEdpw6FvIGThu6VjIGNow61uaCB0cuG7iyB2w6AgUXXhuqNuIGzDvSBHacOhbyBk4bulYzwvYT48L2xpPjwvdWw+ZAIJDxYCHwAFhwg8dWw+PGxpPjxhIGhyZWY9J2h0dHBzOi8vZHAuZHRodS5lZHUudm4vJyB0YXJnZXQ9J19ibGFuayc+UGjDsm5nIFThu5UgY2jhu6ljIGPDoW4gYuG7mSB2w6AgUGjDoXAgY2jhur88L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cHM6Ly9hZG8uZHRodS5lZHUudm4nIHRhcmdldD0nX2JsYW5rJz5QaMOybmcgSMOgbmggY2jDrW5oIC0gVOG7lW5nIGjhu6NwPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHBzOi8vY3Rzdi5kdGh1LmVkdS52bicgdGFyZ2V0PSdfYmxhbmsnPlBow7JuZyBDw7RuZyB0w6FjIMSQ4bqjbmcgdsOgIEPDtG5nIHTDoWMgc2luaCB2acOqbjwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwczovL2h0cXQuZHRodS5lZHUudm4vJyB0YXJnZXQ9J19ibGFuayc+UGjDsm5nIEjhu6NwIHTDoWMgcXXhu5FjIHThur8gdsOgIFRydXnhu4FuIHRow7RuZzwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwczovL2Fhby5kdGh1LmVkdS52bi8nIHRhcmdldD0nX2JsYW5rJz5QaMOybmcgxJDDoG8gdOG6oW88L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cHM6Ly90YnhkY2IuZHRodS5lZHUudm4vJyB0YXJnZXQ9J19ibGFuayc+UGjDsm5nIFRoaeG6v3QgYuG7iyB2w6AgWMOieSBk4buxbmcgQ8ahIGLhuqNuPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHBzOi8vcWFvLmR0aHUuZWR1LnZuJyB0YXJnZXQ9J19ibGFuayc+UGjDsm5nIELhuqNvIMSR4bqjbSBjaOG6pXQgbMaw4bujbmc8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cHM6Ly9kdHNkaC5kdGh1LmVkdS52bi8nIHRhcmdldD0nX2JsYW5rJz5QaMOybmcgxJDDoG8gdOG6oW8gU2F1IMSR4bqhaSBo4buNYzwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwczovL2toY24uZHRodS5lZHUudm4vJyB0YXJnZXQ9J19ibGFuayc+UGjDsm5nIEtob2EgaOG7jWMgdsOgIEPDtG5nIG5naOG7hzwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwczovL3Bmby5kdGh1LmVkdS52bi8nIHRhcmdldD0nX2JsYW5rJz5QaMOybmcgS+G6vyBob+G6oWNoIC0gVMOgaSBjaMOtbmg8L2E+PC9saT48L3VsPmQCCw8WAh8ABZgFPHVsPjxsaT48YSBocmVmPSdodHRwOi8vdGh1dmllbi5kdGh1LmVkdS52bicgdGFyZ2V0PSdfYmxhbmsnPlRydW5nIHTDom0gSOG7jWMgbGnhu4d1IEzDqiBWxakgSMO5bmcgPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHBzOi8vdHRkdi5kdGh1LmVkdS52bi8nIHRhcmdldD0nX2JsYW5rJz5UcnVuZyB0w6JtIEThu4tjaCB24bulPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHBzOi8vbm50aC5kdGh1LmVkdS52bi8nIHRhcmdldD0nX2JsYW5rJz5UcnVuZyB0w6JtIE5nb+G6oWkgbmfhu68gdsOgIFRpbiBo4buNYzwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwczovL2xrZHQtYmRuLmR0aHUuZWR1LnZuLycgdGFyZ2V0PSdfYmxhbmsnPlRydW5nIHTDom0gTGnDqm4ga+G6v3QgxJHDoG8gdOG6oW8gdsOgIELhu5NpIGTGsOG7oW5nPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly9kdGh1anMudm4vJyB0YXJnZXQ9J19ibGFuayc+VOG6oXAgY2jDrSBLaG9hIGjhu41jIMSQ4bqhaSBo4buNYyDEkOG7k25nIFRow6FwPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHBzOi8vY3BlLmR0aHUuZWR1LnZuLycgdGFyZ2V0PSdfYmxhbmsnPlRydW5nIHTDom0gQ2h1eeG7g24gZ2lhbyBjw7RuZyBuZ2jhu4csIEto4bufaSBuZ2hp4buHcCB2w6AgU+G7sSBraeG7h248L2E+PC9saT48L3VsPmQCDQ8WAh8AZWQCDw9kFhACAQ8PFgIfAAUaQ8OidSBo4buPaSB0aMaw4budbmcgZ+G6t3BkZAIDDw8WAh8ABeQFPGxpPjxhIGhyZWY9J2h0dHA6Ly9wb3J0YWwuZHRodS5lZHUudm4nIHRhcmdldD0nX2JsYW5rJz7EkMSDbmcga8O9IGjhu41jIHBo4bqnbjwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vdG90bmdoaWVwLmR0aHUuZWR1LnZuJyB0YXJnZXQ9J19ibGFuayc+VGjDtG5nIHRpbiB04buRdCBuZ2hp4buHcDwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vYmxhY2tib2FyZC5kdGh1LmVkdS52bi8nIHRhcmdldD0nX2JsYW5rJz5Ww6BvIEJsYWNrYm9hcmQ8L2E+PC9saT48bGk+PGEgaHJlZj0nbGlzdHMuYXNweD9pZG1uPTgxJz5I4buNYyBi4buVbmc8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL3d3dy5kdGh1LmVkdS52bjoyMDAwJyB0YXJnZXQ9J19ibGFuayc+VGjDtG5nIHRpbiBuaMOgIHRy4buNPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly9hYW8uZHRodS5lZHUudm4vTmV3cy5hc3B4P2lkPTIxNycgdGFyZ2V0PSdfYmxhbmsnPlRow7RuZyB0aW4gdHV54buDbiBk4bulbmc8L2E+PC9saT48bGk+PGEgaHJlZj0naXRlbXMuYXNweD9pZG1uPTQxJz5Dw6J1IGjhu49pIHRoxrDhu51uZyBn4bq3cDwvYT48L2xpPjxsaT48YSBocmVmPSdpdGVtcy5hc3B4P2lkbW49NjYnPkJp4buDdSBt4bqrdSBj4bqnbiB0aGnhur90PC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly9kb2FudGhhbmhuaWVuLmR0aHUuZWR1LnZuJyB0YXJnZXQ9J19ibGFuayc+xJBvw6BuIFROIC0gSOG7mWkgU1Y8L2E+PC9saT5kZAIFDw8WAh8ABUk8aSBjbGFzcz0nZmEgZmEtY2FsZW5kYXInPiAyNS8wOS8yMDExPC9pPiA8aSBjbGFzcz0nZmEgZmEtZXllJz4gMjYzMjY8L2k+ZGQCBw8PFgIfAAU+VuG7gSDDvSBuZ2jEqWEgY+G7p2EgbG9nbyBUcsaw4budbmcgxJDhuqFpIGjhu41jIMSQ4buTbmcgVGjDoXBkZAIJDw8WAh8ABf8vPHA+PGltZyBhbHQ9IiIgc3JjPSIvdXBsb2Fkcy8xNU5hbURUaFUvbG9nb2tvbmVuLnBuZyIgc3R5bGU9IndpZHRoOiAyMDBweDsgaGVpZ2h0OiAyMDBweDsgYm9yZGVyLXdpZHRoOiAwcHg7IGJvcmRlci1zdHlsZTogc29saWQ7IiAvPjxiciAvPg0KPGJyIC8+DQo8c3Ryb25nPkxvZ28gVHLGsOG7nW5nIMSQ4bqhaSBo4buNYyDEkOG7k25nIFRoJmFhY3V0ZTtwIGgmaWdyYXZlO25oIHRyJm9ncmF2ZTtuIGMmb2FjdXRlOyBoYWkgcGjhuqduOjwvc3Ryb25nPjwvcD4NCg0KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1hcmdpbi10b3A6IDZwdDsgdGV4dC1hbGlnbjoganVzdGlmeTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTJweDsiPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTpBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZjsiPi0gUGjhuqduIHYmb2dyYXZlO25nIHRyJm9ncmF2ZTtuIGImZWNpcmM7biBuZ28mYWdyYXZlO2k6IE7hu4FuIHhhbmggY2jhu68gdHLhuq9uZywgcGgmaWFjdXRlO2EgdHImZWNpcmM7biBjJm9hY3V0ZTsgZCZvZ3JhdmU7bmcgY2jhu68gVGnhur9uZyBWaeG7h3Q6IDxiPsSQ4bqhaSBo4buNYyDEkOG7k25nIFRoJmFhY3V0ZTtwLDwvYj4gU2l6ZTogMTgsIHBoJm9jaXJjO25nIGNo4buvOiBIUC1jb3BwZXIsIHBoJmlhY3V0ZTthIGTGsOG7m2kgbCZhZ3JhdmU7IGQmb2dyYXZlO25nIGNo4buvIFRp4bq/bmcgQW5oOiA8Yj5Eb25nIFRoYXAgVW5pdmVyc2l0eTwvYj4sIFNpemUgMTYsIHBoJm9jaXJjO25nIGNo4buvIEhQLWNvcHBlci48L3NwYW4+PC9zcGFuPjwvcD4NCg0KPHAgc3R5bGU9Im1hcmdpbjogNnB0IDBpbjsgdGV4dC1hbGlnbjoganVzdGlmeTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTJweDsiPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTpBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZjsiPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzotLjFwdCI+LSBQaOG6p24gaOG7jWEgdGnhur90IGImZWNpcmM7biB0cm9uZyB2Jm9ncmF2ZTtuZyB0ciZvZ3JhdmU7biBtYW5nIHQmaWFjdXRlO25oIGtoJmFhY3V0ZTtpIHF1JmFhY3V0ZTt0IGNhbywgYyZvYWN1dGU7IHRo4buDIGRp4buFbiDEkeG6oXQgdGhlbyBuaGnhu4F1IGMmYWFjdXRlO2NoIGtoJmFhY3V0ZTtjIG5oYXUuIFNhdSDEkSZhY2lyYzt5IGwmYWdyYXZlOyBt4buZdCBz4buRIGMmYWFjdXRlO2NoIGRp4buFbiDEkeG6oXQgY2jhu6cgeeG6v3U6PC9zcGFuPjwvc3Bhbj48L3NwYW4+PC9wPg0KDQo8cCBzdHlsZT0ibWFyZ2luOiA2cHQgMGluOyB0ZXh0LWFsaWduOiBqdXN0aWZ5OyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMnB4OyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmOyI+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ICsgSOG7jWEgdGnhur90IG0mb2NpcmM7IHBo4buPbmcgaCZpZ3JhdmU7bmggdMaw4bujbmcgY2hp4bq/YyBtJmFhY3V0ZTt5IGJheSBwaOG6o24gbOG7sWMgxJFhbmcgYmF5IGNhbyB0ciZlY2lyYztuIGLhuqd1IHRy4budaSwgdMaw4bujbmcgdHLGsG5nIGgmaWdyYXZlO25oIOG6o25oIFRyxrDhu51uZyDEkOG6oWkgaOG7jWMgxJDhu5NuZyBUaCZhYWN1dGU7cCDEkWFuZyB0ciZlY2lyYztuIMSRJmFncmF2ZTsgcGgmYWFjdXRlO3QgdHJp4buDbiB2xrDhu6N0IGLhuq1jLCBi4buBbiB24buvbmcsIOG7lW4gxJHhu4tuaCB24buBIG3hu41pIG3hurd0Ozwvc3Bhbj48L3NwYW4+PC9wPg0KDQo8cCBzdHlsZT0ibWFyZ2luOiA2cHQgMGluOyB0ZXh0LWFsaWduOiBqdXN0aWZ5OyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMnB4OyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmOyI+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ICsgSOG7jWEgdGnhur90IG0mb2NpcmM7IHBo4buPbmcgaCZpZ3JhdmU7bmggdMaw4bujbmcgY2hpbSBI4buTbmcgSOG6oWMgKFPhur91IMSR4bqndSDEkeG7jykgxJFhbmcgZGFuZyBy4buZbmcgxJEmb2NpcmM7aSBjJmFhY3V0ZTtuaCBiYXkgdHImZWNpcmM7biB0cuG7nWkgY2FvLCB0xrDhu6NuZyB0csawbmcgaCZpZ3JhdmU7bmgg4bqjbmggVHLGsOG7nW5nIMSQ4bqhaSBo4buNYyDEkOG7k25nIFRoJmFhY3V0ZTtwIMSRYW5nIGPhuqV0IGMmYWFjdXRlO25oIGJheSBsJmVjaXJjO24gdHImZWNpcmM7biBi4bqndSB0cuG7nWkgdHJpIHRo4bupYyBj4bunYSBuaCZhY2lyYztuIGxv4bqhaSwgYmnhur90IGfhuqFuIMSR4bulYywga2jGoWkgdHJvbmcsIHbhu69uZyBixrDhu5tjIMSRaSBsJmVjaXJjO24gdHImZWNpcmM7biBjb24gxJHGsOG7nW5nIGjhu5lpIG5o4bqtcCB2JmFncmF2ZTsgcGgmYWFjdXRlO3QgdHJp4buDbjs8L3NwYW4+PC9zcGFuPjwvcD4NCg0KPHAgc3R5bGU9Im1hcmdpbjogNnB0IDBpbjsgdGV4dC1hbGlnbjoganVzdGlmeTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTJweDsiPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTpBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZjsiPiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyArIEjhu41hIHRp4bq/dCBtJm9jaXJjOyBwaOG7j25nIGNvbiB0aHV54buBbiDEkWFuZyBjxINuZyBideG7k20gbMaw4bubdCBzJm9hY3V0ZTtuZyB0aeG6v24gduG7gSBwaCZpYWN1dGU7YSB0csaw4bubYywgdMaw4bujbmcgdHLGsG5nIGgmaWdyYXZlO25oIOG6o25oIFRyxrDhu51uZyDEkOG6oWkgaOG7jWMgxJDhu5NuZyBUaCZhYWN1dGU7cCBiJmVjaXJjO24gYuG7nSBzJm9jaXJjO25nIFRp4buBbiBHaWFuZyBoaeG7gW4gaCZvZ3JhdmU7YSwgdGjGoSBt4buZbmcgxJFhbmcgdsawxqFuIG0maWdyYXZlO25oIHbhu69uZyBixrDhu5tjIMSRaSB04bubaSBjaCZhY2lyYztuIHRy4budaSBraG9hIGjhu41jOzwvc3Bhbj48L3NwYW4+PC9wPg0KDQo8cCBzdHlsZT0ibWFyZ2luOiA2cHQgMGluOyB0ZXh0LWFsaWduOiBqdXN0aWZ5OyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMnB4OyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmOyI+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IDxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzotLjFwdCI+KyBI4buNYSB0aeG6v3QgbSZvY2lyYzsgcGjhu49uZyBuZ+G7jW4gbOG7rWEgbSZhZ3JhdmU7dSB4YW5oLCBuZ+G7jW4gbOG7rWEgY+G7p2Egc+G7sSBr4bq/dCBo4bujcCBoJmFncmF2ZTtpIGgmb2dyYXZlO2EgZ2nhu69hIHRydXnhu4FuIHRo4buRbmcgdiZhZ3JhdmU7IGhpJmVjaXJjO24gxJHhuqFpLCB0xrDhu6NuZyB0csawbmcgaCZpZ3JhdmU7bmgg4bqjbmggVHLGsOG7nW5nIMSQ4bqhaSBo4buNYyDEkOG7k25nIFRoJmFhY3V0ZTtwIGJp4bq/dCBr4bq/IHRo4burYSB2JmFncmF2ZTsgcGgmYWFjdXRlO3QgaHV5IHRydXnhu4FuIHRo4buRbmcgaCZhZ3JhdmU7byBoJnVncmF2ZTtuZyBj4bunYSBkJmFjaXJjO24gdOG7mWMgVmnhu4d0IE5hbSBuJm9hY3V0ZTtpIGNodW5nIHYmYWdyYXZlOyB2JnVncmF2ZTtuZyDEkOG7k25nIGLhurFuZyBzJm9jaXJjO25nIEPhu611IExvbmcgbiZvYWN1dGU7aSByaSZlY2lyYztuZyB0cm9uZyBjdeG7mWMgxJHhuqV1IHRyYW5oIGdp4bqjaSBwaCZvYWN1dGU7bmcgZCZhY2lyYztuIHThu5ljIHYmYWdyYXZlOyBi4bqjbyB24buHIFThu5UgcXXhu5FjOyB0cnV54buBbiB0aOG7kW5nIHbEg24gaCZvYWN1dGU7YSBj4bunYSBkJmFjaXJjO24gdOG7mWMgY8WpbmcgbmjGsCB0aeG6v3AgdGh1IG5o4buvbmcgdGluaCBob2EgdsSDbiBoJm9hY3V0ZTthIGPhu6dhIG5oJmFjaXJjO24gbG/huqFpIMSR4buDIMSRJmFncmF2ZTtvIHThuqFvIHJhIMSR4buZaSBuZ8WpIGMmYWFjdXRlO24gYuG7mSB24burYSAmbGRxdW87aOG7k25nJnJkcXVvOyB24burYSAmbGRxdW87Y2h1eSZlY2lyYztuJnJkcXVvOyDEkSZhYWN1dGU7cCDhu6luZyBz4buxIHBoJmFhY3V0ZTt0IHRyaeG7g24gbmcmYWdyYXZlO3kgYyZhZ3JhdmU7bmcgY2FvIGPhu6dhIGMmb2NpcmM7bmcgY3Xhu5ljIMSR4buVaSBt4bubaSwgYyZvY2lyYztuZyBuZ2hp4buHcCBoJm9hY3V0ZTthLCBoaeG7h24gxJHhuqFpIGgmb2FjdXRlO2EgxJHhuqV0IG7GsOG7m2MuPC9zcGFuPjwvc3Bhbj48L3NwYW4+PC9wPg0KDQo8cCBzdHlsZT0ibWFyZ2luOiA2cHQgMGluOyB0ZXh0LWFsaWduOiBqdXN0aWZ5OyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMnB4OyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmOyI+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ICsgSOG7jWEgdGnhur90IG0mb2NpcmM7IHBo4buPbmcgdiZ1Z3JhdmU7bmcgxJDhu5NuZyBi4bqxbmcgcyZvY2lyYztuZyBD4butdSBMb25nIGLhu5FuIG0mdWdyYXZlO2EgYyZhY2lyYzt5IHhhbmgsIGhvYSB0aMahbSwgcXXhuqMgbmfhu410IHBoJmFhY3V0ZTt0IHRyaeG7g24gdHImZWNpcmM7biBu4buBbiDEkeG6pXQgcGgmdWdyYXZlOyBzYSBtJmFncmF2ZTt1IG3hu6EgdMaw4bujbmcgdHLGsG5nIGNobyBz4bupYyB0cuG6uyBj4bunYSZuYnNwOyBUcsaw4budbmcgxJDhuqFpIGjhu41jIMSQ4buTbmcgVGgmYWFjdXRlO3AgbHUmb2NpcmM7biBuaOG6rW4gxJHGsOG7o2Mgc+G7sSBxdWFuIHQmYWNpcmM7bSwgbCZhdGlsZGU7bmggxJHhuqFvLCBjaOG7iSDEkeG6oW8gY+G7p2EgQuG7mSBHaSZhYWN1dGU7byBk4bulYyB2JmFncmF2ZTsgxJAmYWdyYXZlO28gdOG6oW8sIGPhu6dhIFThu4luaCB14bu3LCDhu6Z5IGJhbiBOaCZhY2lyYztuIGQmYWNpcmM7biwgYyZhYWN1dGU7YyBiYW4sIG5nJmFncmF2ZTtuaCDEkW8mYWdyYXZlO24gdGjhu4MsIGPhu6dhIG5oJmFjaXJjO24gZCZhY2lyYztuIMSRYW5nIMawxqFtIG3huqdtIHQmYWdyYXZlO2kgbsSDbmcgY2hvIMSR4bqldCBuxrDhu5tjLCBnJm9hY3V0ZTtwIHBo4bqnbiBxdWFuIHRy4buNbmcgdiZhZ3JhdmU7byBz4buxIHBoJmFhY3V0ZTt0IHRyaeG7g24ga2luaCB04bq/IC0geCZhdGlsZGU7IGjhu5lpLCBz4buxIHBo4buTbiB0aOG7i25oIGPhu6dhIMSR4bqldCBuxrDhu5tjIGPFqW5nIG5oxrAgY+G7p2Ega2h1IHbhu7FjLjwvc3Bhbj48L3NwYW4+PC9wPg0KDQo8cCBzdHlsZT0ibWFyZ2luOiA2cHQgMGluOyB0ZXh0LWFsaWduOiBqdXN0aWZ5OyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMnB4OyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmOyI+TuG7mWkgZHVuZyBMb2dvIHRo4buDIGhp4buHbiAmeWFjdXRlOyBuZ2jEqWE6IFRyxrDhu51uZyDEkOG6oWkgaOG7jWMgxJDhu5NuZyBUaCZhYWN1dGU7cCDEkSZhdGlsZGU7LCDEkWFuZyB2JmFncmF2ZTsgc+G6vSBwaCZhYWN1dGU7dCB0cmnhu4NuIOG7lW4gxJHhu4tuaCwgYuG7gW4gduG7r25nIHbhu4EgbeG7jWkgbeG6t3QsIMSR4buDIHRo4buxYyBoaeG7h24gbmhp4buHbSB24bulIGNoaeG6v24gbMaw4bujYyBjxqEgYuG6o24gbCZhZ3JhdmU7OiDEkCZhZ3JhdmU7byB04bqhbyB2JmFncmF2ZTsgbmdoaSZlY2lyYztuIGPhu6l1IGtob2EgaOG7jWMgdHImZWNpcmM7biBu4buBbiB04bqjbmcgxJHhu5lpIG5nxakgYyZhYWN1dGU7biBi4buZLCBnaeG6o25nIHZpJmVjaXJjO24sIGMmb2NpcmM7bmcgbmgmYWNpcmM7biB2aSZlY2lyYztuIGMmb2FjdXRlOyB0ciZpZ3JhdmU7bmggxJHhu5kgY2FvLCBjJnVncmF2ZTtuZyBjxqEgc+G7nyB24bqtdCBjaOG6pXQsIHRyYW5nIHRoaeG6v3QgYuG7iyBjaHXhuqluIGgmb2FjdXRlO2EgdiZhZ3JhdmU7IGhp4buHbiDEkeG6oWkgaCZvYWN1dGU7YTsgduG7r25nIGLGsOG7m2MgdHImZWNpcmM7biBjb24gxJHGsOG7nW5nIGjhu5lpIG5o4bqtcCAmbmRhc2g7IHBoJmFhY3V0ZTt0IHRyaeG7g24gdiZhZ3JhdmU7IHbGsMahbiDEkeG6v24gdOG6p20gY2FvIG3hu5tpLjwvc3Bhbj48L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLXRvcDo2LjBwdCI+Jm5ic3A7PC9wPg0KDQo8cD4mbmJzcDs8L3A+DQpkZAILDxYCHgdWaXNpYmxlaGQCDw8PFgIfAAU4WEVNIFRIw4pNIDxhIGhyZWY9J2xpc3RzLmFzcHg/aWRtbj00MSc+IFtU4bqldCBj4bqjXTwvYT5kZAIRDw8WAh8ABZ4JPHVsPjxhIGhyZWY9J3BWaWV3LmFzcHg/aWRwPTQzNCZpZG1uPTQxJz48bGk+MTAgxJFp4buBdSBi4bqhbiBuw6puIGjhu41jIHThuqFpIERUaFUgPGkgY2xhc3M9J3Bvc3RkYXRlIHZpZXcnPigwMy8wMS8yMDE3KTwvaT48L2xpPjwvYT48YSBocmVmPSdwVmlldy5hc3B4P2lkcD0xMDImaWRtbj00MSc+PGxpPlbhu4EgxJHDoG8gdOG6oW8gdGhlbyBo4buNYyBjaOG6vyB0w61uIGNo4buJIDxpIGNsYXNzPSdwb3N0ZGF0ZSB2aWV3Jz4oMjUvMDkvMjAxMSk8L2k+PC9saT48L2E+PGEgaHJlZj0ncFZpZXcuYXNweD9pZHA9MTAxJmlkbW49NDEnPjxsaT5W4buBIGjhu41jLCB0aGkgTmdv4bqhaSBuZ+G7ryAtIFRpbiBo4buNYyA8aSBjbGFzcz0ncG9zdGRhdGUgdmlldyc+KDI1LzA5LzIwMTEpPC9pPjwvbGk+PC9hPjxhIGhyZWY9J3BWaWV3LmFzcHg/aWRwPTEwMCZpZG1uPTQxJz48bGk+VuG7gSBo4buNYyB0w61uIGNo4buJIEdpw6FvIGThu6VjIHRo4buDIGNo4bqldCA8aSBjbGFzcz0ncG9zdGRhdGUgdmlldyc+KDI1LzA5LzIwMTEpPC9pPjwvbGk+PC9hPjxhIGhyZWY9J3BWaWV3LmFzcHg/aWRwPTk5JmlkbW49NDEnPjxsaT5W4buBIGjhu41jIGLhu5VuZyBjaMOtbmggc8OhY2ggPGkgY2xhc3M9J3Bvc3RkYXRlIHZpZXcnPigyNS8wOS8yMDExKTwvaT48L2xpPjwvYT48YSBocmVmPSdwVmlldy5hc3B4P2lkcD05OCZpZG1uPTQxJz48bGk+VuG7gSB0w61uIGThu6VuZyDEkcOgbyB04bqhbyA8aSBjbGFzcz0ncG9zdGRhdGUgdmlldyc+KDI1LzA5LzIwMTEpPC9pPjwvbGk+PC9hPjxhIGhyZWY9J3BWaWV3LmFzcHg/aWRwPTk3JmlkbW49NDEnPjxsaT5W4buBIHRy4bujIGPhuqVwIHjDoyBo4buZaSA8aSBjbGFzcz0ncG9zdGRhdGUgdmlldyc+KDI1LzA5LzIwMTEpPC9pPjwvbGk+PC9hPjxhIGhyZWY9J3BWaWV3LmFzcHg/aWRwPTk2JmlkbW49NDEnPjxsaT5W4buBIMSRw6FuaCBnacOhIGvhur90IHF14bqjIHLDqG4gbHV54buHbiA8aSBjbGFzcz0ncG9zdGRhdGUgdmlldyc+KDI1LzA5LzIwMTEpPC9pPjwvbGk+PC9hPjxhIGhyZWY9J3BWaWV3LmFzcHg/aWRwPTk0JmlkbW49NDEnPjxsaT5W4buBIGzEqW5oIHbhu7FjIGdp4bqjaSBxdXnhur90IGNo4bq/IMSR4buZIGNow61uaCBzw6FjaCA8aSBjbGFzcz0ncG9zdGRhdGUgdmlldyc+KDI1LzA5LzIwMTEpPC9pPjwvbGk+PC9hPjwvdWw+ZGQCEQ8PFgIfAAW6A1RyxrDGocyAbmcgxJDhuqFpIGjhu41jIMSQw7TMgG5nIFRoYcyBcCBsw6AgdHLGsOG7nW5nIMSR4bqhaSBo4buNYyBjw7RuZyBs4bqtcCwgxJHDoG8gdOG6oW8gxJFhIG5nw6BuaCwgxJFhIGzEqW5oIHbhu7FjLCB0cuG7sWMgdGh14buZYyBC4buZIEdpw6FvIGThu6VjIHbDoCDEkMOgbyB04bqhbywgxJHGsMahzKNjIHRoYcyAbmggbMOizKNwIG5nYcyAeSAxMC8wMS8yMDAzIHRoZW8gUXV5w6rMgXQgxJFpzKNuaCBzw7TMgSAwOC8yMDAzL1HEkC1UVGcgY3XMiWEgVGh1zIkgdMawxqHMgW5nIENoacyBbmggcGh1zIkgdsOgIEPDtG5nIHbEg24gc+G7kSA1ODMwL1ZQQ1AtS0dWWCBuZ8OgeSAwNC85LzIwMDggduG7gSB2aeG7h2MgxJHhu5VpIHTDqm4gVHLGsOG7nW5nIMSQSFNQIMSQ4buTbmcgVGjDoXAgdGjDoG5oIFRyxrDhu51uZyDEkOG6oWkgaOG7jWMgxJDhu5NuZyBUaMOhcC5kZAITDw8WAh8ABQQ0Njg0ZGQCFQ8PFgIfAAUINTI3NTgwMjlkZGTPzOaxj+N49rdRxqzi0rqGdwtI9IqakFDNHxTD2ny/gg==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="9DBEC6C3" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAPvUvkDYPFzXtlRcOFiAYaMRWB6RzQIzZWOsEKIfoevHCc5ACQRALaUQY95HbVkx7CMXnJubGDhjuejWW5PO6TiEvX3YQAcwWvfVb/jcChu9A==" />
+</div>
+        
+
+        <div class="probootstrap-page-wrapper">
+            <!-- Fixed navbar -->
+
+            <div class="probootstrap-header-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-9 col-md-9 col-sm-9 probootstrap-top-quick-contact-info">
+                            
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-3 probootstrap-top-social">
+                            <ul>
+                                
+                                <li class="vn"><a href="https://www.dthu.edu.vn">VN</a></li>
+                                <li class="en"><a href="https://en.dthu.edu.vn" target="_blank">EN</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <nav class="navbar navbar-default probootstrap-navbar">
+                <div class="container"> 
+                    
+                    <div class="navbar-header">
+                        <div class="btn-more js-btn-more visible-xs">
+                            <a href="#"><i class="icon-dots-three-vertical "></i></a>
+                        </div>
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a href="default.aspx" id="logoImg" class="navbar-brand">DThU</a>
+                    </div>
+
+                   
+                   
+                    <div>
+                        <span id="lblMenu"><div id='navbar-collapse' class='navbar-collapse collapse'><ul class='nav navbar-nav navbar-right'><li class='dropdown'><a href='#' data-toggle='dropdown' class='dropdown-toggle'><div class='root'>GIỚI THIỆU</div></a><ul class='dropdown-menu'><li><a href='pView.aspx?idp=4&idmn=8'>Giới thiệu về DThU</a></li><li><a href='pView.aspx?idp=213&idmn=162'>Sứ mạng, Tầm nhìn, Triết lý giáo dục và Hệ giá trị cốt lõi</a></li><li><a href='pView.aspx?idp=119&idmn=7'>Thông điệp của Hiệu trưởng</a></li><li><a href='pView.aspx?idp=974&idmn=217'>Ban Giám hiệu</a></li><li><a href='pView.aspx?idp=22&idmn=11'>Hội đồng khoa học</a></li><li><a href='gopy.aspx' target='_blank'>Góp ý - Hiến kế</a></li><li><a href='pView.aspx?idp=889&idmn=180'>Sơ đồ tổ chức</a></li><li><a href='pView.aspx?idp=888&idmn=202'>Ca khúc Truyền thống</a></li><li class='dropdown-submenu dropdown'><a href='#' data-toggle='dropdown' class='dropdown-toggle'><span>Đảng - Đoàn thể</span></a><ul class='dropdown-menu'><li><a href='https://vpdu.dthu.edu.vn/' target='_blank'>Đảng ủy</a></li><li><a href='https://congdoan.dthu.edu.vn/' target='_blank'>Công đoàn</a></li><li><a href='http://doanthanhnien.dthu.edu.vn' target='_blank'>Đoàn thanh niên</a></li></ul></li></ul></li><li class='dropdown'><a href='#' data-toggle='dropdown' class='dropdown-toggle'><div class='root'>ĐÀO TẠO</div></a><ul class='dropdown-menu'><li class='dropdown-submenu dropdown'><a href='#' data-toggle='dropdown' class='dropdown-toggle'><span>Đại học & Cao đẳng</span></a><ul class='dropdown-menu'><li><a href='khung-chuong-trinh-dao-tao.aspx' target='_blank'>Ngành đào tạo</a></li><li><a href='items.aspx?idmn=174'>Quy chế đào tạo</a></li><li><a href='items.aspx?idmn=18'>Quy trình đào tạo</a></li><li><a href='items.aspx?idmn=166'>Quy định đánh giá</a></li><li><a href='pView.aspx?idp=435&idmn=17'>Biên chế năm học</a></li><li><a href='https://aao.dthu.edu.vn/News.aspx?id=715' target='_blank'>Thông tin tốt nghiệp</a></li><li><a href='lists.aspx?idmn=173'>Đề án</a></li></ul></li><li class='dropdown-submenu dropdown'><a href='#' data-toggle='dropdown' class='dropdown-toggle'><span>Sau đại học</span></a><ul class='dropdown-menu'><li><a href='specializes.aspx?idmn=83'>Ngành đào tạo</a></li><li><a href='https://dtsdh.dthu.edu.vn/News.aspx?id=194' target='_blank'>Quy chế đào tạo</a></li><li><a href='https://dtsdh.dthu.edu.vn/BieuMau.aspx' target='_blank'>Biểu mẫu</a></li><li><a href='lists.aspx?idmn=171'>Đề án</a></li></ul></li></ul></li><li class='dropdown'><a href='#' data-toggle='dropdown' class='dropdown-toggle'><div class='root'>NGHIÊN CỨU</div></a><ul class='dropdown-menu'><li><a href='items.aspx?idmn=87'>Thông báo</a></li><li class='dropdown-submenu dropdown'><a href='#' data-toggle='dropdown' class='dropdown-toggle'><span>Hoạt động KH&CN</span></a><ul class='dropdown-menu'><li><a href='items.aspx?idmn=220'>Sinh viên</a></li><li><a href='items.aspx?idmn=221'>Giảng viên</a></li><li><a href='items.aspx?idmn=237'>Hội nghị hội thảo</a></li></ul></li><li class='dropdown-submenu dropdown'><a href='#' data-toggle='dropdown' class='dropdown-toggle'><span>Quy định, Biểu mẫu</span></a><ul class='dropdown-menu'><li><a href='resforms.aspx?idmn=231'>Quy định</a></li><li><a href='http://khcn.dthu.edu.vn/index.php?language=vi&nv=thong-tin-khoa-hoc&op=Bieu-mau-NCKH' target='_blank'>Biểu mẫu</a></li></ul></li><li><a href='http://dthujs.vn/' target='_blank'>Tạp chí Khoa học</a></li><li><a href='pView.aspx?idp=1621&idmn=238'>Thông tin kết quả Nghiên cứu</a></li></ul></li><li class='dropdown'><a href='#' data-toggle='dropdown' class='dropdown-toggle'><div class='root'>HỢP TÁC</div></a><ul class='dropdown-menu'><li><a href='News.aspx?idmn=1' target='_blank'>Hoạt động hợp tác</a></li><li><a href='https://htqt.dthu.edu.vn/' target='_blank'>Phòng Hợp tác quốc tế</a></li><li class='dropdown-submenu dropdown'><a href='#' data-toggle='dropdown' class='dropdown-toggle'><span>Dự án hợp tác</span></a><ul class='dropdown-menu'><li><a href='lists.aspx?idmn=248'>Dự án VIETMUS</a></li><li><a href='lists.aspx?idmn=249'>Dự án GreenEDAsia</a></li></ul></li></ul></li><li class='dropdown'><a href='#' data-toggle='dropdown' class='dropdown-toggle'><div class='root'>TUYỂN SINH</div></a><ul class='dropdown-menu'><li><a href='https://tuyensinh.dthu.edu.vn/' target='_blank'>Chính quy </a></li><li><a href='https://lkdt-bdn.dthu.edu.vn/' target='_blank'>Vừa làm vừa học</a></li><li><a href='https://dtsdh.dthu.edu.vn/' target='_blank'>Sau đại học</a></li></ul></li><li class='dropdown'><a href='#' data-toggle='dropdown' class='dropdown-toggle'><div class='root'>THƯ VIỆN</div></a><ul class='dropdown-menu'><li><a href='http://thuvien.dthu.edu.vn' target='_blank'>Trung tâm Học liệu Lê Vũ Hùng </a></li><li><a href='albums.aspx?idmn=58'>Ảnh hoạt động</a></li><li><a href='videos.aspx?idmn=99'>Video về DThU</a></li></ul></li><li class='dropdown'><a href='#' data-toggle='dropdown' class='dropdown-toggle'><div class='root'>CÔNG KHAI</div></a><ul class='dropdown-menu'><li><a href='lists.aspx?idmn=125'>Ba công khai</a></li><li><a href='lists.aspx?idmn=179'>Việc làm sinh viên</a></li><li><a href='lists.aspx?idmn=169'>Báo cáo thường niên</a></li><li><a href='items.aspx?idmn=228'>Thi đua - Khen thưởng</a></li><li><a href='items.aspx?idmn=230'>Đánh giá, xếp loại viên chức </a></li><li><a href='items.aspx?idmn=236'>Công Khai Thuộc Lĩnh Vực Tài Chính</a></li><li><a href='http://tracuuvb.dthu.edu.vn/' target='_blank'>Văn bằng chứng chỉ</a></li></ul></li></ul></ul></span>
+                    </div>
+                </div>
+            </nav>
+
+            <div class="container">
+                <div id="logo-metal">
+                    <img src="img/more.png" />
+                </div>
+                <div id="close">
+                    <img src="img/close.png" />
+                </div>
+            </div>
+            <div class="container menu">
+                <div id="links">
+
+                    <div class="linkFac ol-lg-6 col-md-6 col-sm-6">
+                        <h3>Khoa đào tạo</h3>
+                        <ul><li><a href='https://flf.dthu.edu.vn/' target='_blank'>Khoa Ngoại ngữ</a></li><li><a href='https://cnkt.dthu.edu.vn' target='_blank'>Khoa Công nghệ và Kỹ thuật</a></li><li><a href='https://fel.dthu.edu.vn' target='_blank'> Khoa Kinh tế - Luật</a></li><li><a href='https://nntnmt.dthu.edu.vn' target='_blank'>Khoa Nông nghiệp, Tài nguyên và Môi trường</a></li><li><a href='http://vhdl.dthu.edu.vn' target='_blank'>Khoa Văn hóa - Du lịch và Công tác xã hội</a></li></ul>
+                    </div>
+ <div class="linkFac ol-lg-6 col-md-6 col-sm-6">
+                           <h3><a href="https://se.dthu.edu.vn" target="_blank" title="Trang Web trường Sư phạm, trường Đại học Đồng Tháp">Trường Sư phạm</a>    </h3>
+                        <ul><li><a href='https://mit.dthu.edu.vn/' target='_blank'>Khoa Sư phạm Toán - Tin</a></li><li><a href='https://khoaspkhtn.dthu.edu.vn/' target='_blank'>Khoa Sư phạm Khoa học tự nhiên</a></li><li><a href='http://khxh.dthu.edu.vn/' target='_blank'>Khoa Sư phạm Khoa học xã hội</a></li><li><a href='https://khoagiaoducthmn.dthu.edu.vn/' target='_blank'>Khoa Giáo dục Tiểu học - Mầm non</a></li><li><a href='https://fpe.dthu.edu.vn' target='_blank'>Khoa Giáo dục Thể chất - Sư phạm Nghệ thuật</a></li><li><a href='https://gdct.dthu.edu.vn' target='_blank'>Khoa Giáo dục chính trị và Quản lý Giáo dục</a></li></ul>
+                    </div>
+                    <div class="linkFac ol-lg-6 col-md-6 col-sm-6">
+                        <h3>Phòng ban</h3>
+                        <ul><li><a href='https://dp.dthu.edu.vn/' target='_blank'>Phòng Tổ chức cán bộ và Pháp chế</a></li><li><a href='https://ado.dthu.edu.vn' target='_blank'>Phòng Hành chính - Tổng hợp</a></li><li><a href='https://ctsv.dthu.edu.vn' target='_blank'>Phòng Công tác Đảng và Công tác sinh viên</a></li><li><a href='https://htqt.dthu.edu.vn/' target='_blank'>Phòng Hợp tác quốc tế và Truyền thông</a></li><li><a href='https://aao.dthu.edu.vn/' target='_blank'>Phòng Đào tạo</a></li><li><a href='https://tbxdcb.dthu.edu.vn/' target='_blank'>Phòng Thiết bị và Xây dựng Cơ bản</a></li><li><a href='https://qao.dthu.edu.vn' target='_blank'>Phòng Bảo đảm chất lượng</a></li><li><a href='https://dtsdh.dthu.edu.vn/' target='_blank'>Phòng Đào tạo Sau đại học</a></li><li><a href='https://khcn.dthu.edu.vn/' target='_blank'>Phòng Khoa học và Công nghệ</a></li><li><a href='https://pfo.dthu.edu.vn/' target='_blank'>Phòng Kế hoạch - Tài chính</a></li></ul>
+                    </div>
+
+                   <div class="linkFac ol-lg-6 col-md-6 col-sm-6">
+                        <h3>Trung tâm</h3>
+                        <ul><li><a href='http://thuvien.dthu.edu.vn' target='_blank'>Trung tâm Học liệu Lê Vũ Hùng </a></li><li><a href='https://ttdv.dthu.edu.vn/' target='_blank'>Trung tâm Dịch vụ</a></li><li><a href='https://nnth.dthu.edu.vn/' target='_blank'>Trung tâm Ngoại ngữ và Tin học</a></li><li><a href='https://lkdt-bdn.dthu.edu.vn/' target='_blank'>Trung tâm Liên kết đào tạo và Bồi dưỡng</a></li><li><a href='http://dthujs.vn/' target='_blank'>Tạp chí Khoa học Đại học Đồng Tháp</a></li><li><a href='https://cpe.dthu.edu.vn/' target='_blank'>Trung tâm Chuyển giao công nghệ, Khởi nghiệp và Sự kiện</a></li></ul>
+                    </div>
+
+                    <div class="linkFac ol-lg-3 col-md-3 col-sm-3" style="display:none">
+                        <h3>Trường trực thuộc</h3>
+                        
+                    </div>
+                </div>
+            </div>
+            <div>
+                
+      <section class="probootstrap-section probootstrap-section-colored">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 text-left section-heading probootstrap-animate">
+              <h2 class="view"><span id="ContentPlaceHolder1_lblMenu">Câu hỏi thường gặp</span></h2>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="probootstrap-section probootstrap-section-sm">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="row probootstrap-gutter0">
+                <div class="col-md-4" id="probootstrap-sidebar">
+                  <div class="probootstrap-sidebar-inner probootstrap-overlap probootstrap-animate">
+                    <h3 class="text-uppercase probootstrap-uppercase">CÓ THỂ BẠN QUAN TÂM</h3>
+                    <br />
+                    <ul class="probootstrap-side-menu">
+                        <span id="ContentPlaceHolder1_lblSubMenu"><li><a href='http://portal.dthu.edu.vn' target='_blank'>Đăng ký học phần</a></li><li><a href='http://totnghiep.dthu.edu.vn' target='_blank'>Thông tin tốt nghiệp</a></li><li><a href='http://blackboard.dthu.edu.vn/' target='_blank'>Vào Blackboard</a></li><li><a href='lists.aspx?idmn=81'>Học bổng</a></li><li><a href='http://www.dthu.edu.vn:2000' target='_blank'>Thông tin nhà trọ</a></li><li><a href='http://aao.dthu.edu.vn/News.aspx?id=217' target='_blank'>Thông tin tuyển dụng</a></li><li><a href='items.aspx?idmn=41'>Câu hỏi thường gặp</a></li><li><a href='items.aspx?idmn=66'>Biểu mẫu cần thiết</a></li><li><a href='http://doanthanhnien.dthu.edu.vn' target='_blank'>Đoàn TN - Hội SV</a></li></span>                    
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-md-7 col-md-push-1  probootstrap-animate" id="probootstrap-content">
+                                                     
+                  <span class="enrolled-count"><span id="ContentPlaceHolder1_lblSubTitle"><i class='fa fa-calendar'> 25/09/2011</i> <i class='fa fa-eye'> 26326</i></span></span>
+                  
+                  <h3><span id="ContentPlaceHolder1_lblTitle">Về ý nghĩa của logo Trường Đại học Đồng Tháp</span></h3>
+                              <div class="contents"> <div id="pview">
+                                    <span id="ContentPlaceHolder1_lblContent"><p><img alt="" src="/uploads/15NamDThU/logokonen.png" style="width: 200px; height: 200px; border-width: 0px; border-style: solid;" /><br />
+<br />
+<strong>Logo Trường Đại học Đồng Th&aacute;p h&igrave;nh tr&ograve;n c&oacute; hai phần:</strong></p>
+
+<p class="MsoNormal" style="margin-top: 6pt; text-align: justify;"><span style="font-size:12px;"><span style="font-family:Arial,Helvetica,sans-serif;">- Phần v&ograve;ng tr&ograve;n b&ecirc;n ngo&agrave;i: Nền xanh chữ trắng, ph&iacute;a tr&ecirc;n c&oacute; d&ograve;ng chữ Tiếng Việt: <b>Đại học Đồng Th&aacute;p,</b> Size: 18, ph&ocirc;ng chữ: HP-copper, ph&iacute;a dưới l&agrave; d&ograve;ng chữ Tiếng Anh: <b>Dong Thap University</b>, Size 16, ph&ocirc;ng chữ HP-copper.</span></span></p>
+
+<p style="margin: 6pt 0in; text-align: justify;"><span style="font-size:12px;"><span style="font-family:Arial,Helvetica,sans-serif;"><span style="letter-spacing:-.1pt">- Phần họa tiết b&ecirc;n trong v&ograve;ng tr&ograve;n mang t&iacute;nh kh&aacute;i qu&aacute;t cao, c&oacute; thể diễn đạt theo nhiều c&aacute;ch kh&aacute;c nhau. Sau đ&acirc;y l&agrave; một số c&aacute;ch diễn đạt chủ yếu:</span></span></span></p>
+
+<p style="margin: 6pt 0in; text-align: justify;"><span style="font-size:12px;"><span style="font-family:Arial,Helvetica,sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Họa tiết m&ocirc; phỏng h&igrave;nh tượng chiếc m&aacute;y bay phản lực đang bay cao tr&ecirc;n bầu trời, tượng trưng h&igrave;nh ảnh Trường Đại học Đồng Th&aacute;p đang tr&ecirc;n đ&agrave; ph&aacute;t triển vượt bậc, bền vững, ổn định về mọi mặt;</span></span></p>
+
+<p style="margin: 6pt 0in; text-align: justify;"><span style="font-size:12px;"><span style="font-family:Arial,Helvetica,sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Họa tiết m&ocirc; phỏng h&igrave;nh tượng chim Hồng Hạc (Sếu đầu đỏ) đang dang rộng đ&ocirc;i c&aacute;nh bay tr&ecirc;n trời cao, tượng trưng h&igrave;nh ảnh Trường Đại học Đồng Th&aacute;p đang cất c&aacute;nh bay l&ecirc;n tr&ecirc;n bầu trời tri thức của nh&acirc;n loại, biết gạn đục, khơi trong, vững bước đi l&ecirc;n tr&ecirc;n con đường hội nhập v&agrave; ph&aacute;t triển;</span></span></p>
+
+<p style="margin: 6pt 0in; text-align: justify;"><span style="font-size:12px;"><span style="font-family:Arial,Helvetica,sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Họa tiết m&ocirc; phỏng con thuyền đang căng buồm lướt s&oacute;ng tiến về ph&iacute;a trước, tượng trưng h&igrave;nh ảnh Trường Đại học Đồng Th&aacute;p b&ecirc;n bờ s&ocirc;ng Tiền Giang hiền h&ograve;a, thơ mộng đang vươn m&igrave;nh vững bước đi tới ch&acirc;n trời khoa học;</span></span></p>
+
+<p style="margin: 6pt 0in; text-align: justify;"><span style="font-size:12px;"><span style="font-family:Arial,Helvetica,sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="letter-spacing:-.1pt">+ Họa tiết m&ocirc; phỏng ngọn lửa m&agrave;u xanh, ngọn lửa của sự kết hợp h&agrave;i h&ograve;a giữa truyền thống v&agrave; hi&ecirc;n đại, tượng trưng h&igrave;nh ảnh Trường Đại học Đồng Th&aacute;p biết kế thừa v&agrave; ph&aacute;t huy truyền thống h&agrave;o h&ugrave;ng của d&acirc;n tộc Việt Nam n&oacute;i chung v&agrave; v&ugrave;ng Đồng bằng s&ocirc;ng Cửu Long n&oacute;i ri&ecirc;ng trong cuộc đấu tranh giải ph&oacute;ng d&acirc;n tộc v&agrave; bảo vệ Tổ quốc; truyền thống văn h&oacute;a của d&acirc;n tộc cũng như tiếp thu những tinh hoa văn h&oacute;a của nh&acirc;n loại để đ&agrave;o tạo ra đội ngũ c&aacute;n bộ vừa &ldquo;hồng&rdquo; vừa &ldquo;chuy&ecirc;n&rdquo; đ&aacute;p ứng sự ph&aacute;t triển ng&agrave;y c&agrave;ng cao của c&ocirc;ng cuộc đổi mới, c&ocirc;ng nghiệp h&oacute;a, hiện đại h&oacute;a đất nước.</span></span></span></p>
+
+<p style="margin: 6pt 0in; text-align: justify;"><span style="font-size:12px;"><span style="font-family:Arial,Helvetica,sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Họa tiết m&ocirc; phỏng v&ugrave;ng Đồng bằng s&ocirc;ng Cửu Long bốn m&ugrave;a c&acirc;y xanh, hoa thơm, quả ngọt ph&aacute;t triển tr&ecirc;n nền đất ph&ugrave; sa m&agrave;u mỡ tượng trưng cho sức trẻ của&nbsp; Trường Đại học Đồng Th&aacute;p lu&ocirc;n nhận được sự quan t&acirc;m, l&atilde;nh đạo, chỉ đạo của Bộ Gi&aacute;o dục v&agrave; Đ&agrave;o tạo, của Tỉnh uỷ, Ủy ban Nh&acirc;n d&acirc;n, c&aacute;c ban, ng&agrave;nh đo&agrave;n thể, của nh&acirc;n d&acirc;n đang ươm mầm t&agrave;i năng cho đất nước, g&oacute;p phần quan trọng v&agrave;o sự ph&aacute;t triển kinh tế - x&atilde; hội, sự phồn thịnh của đất nước cũng như của khu vực.</span></span></p>
+
+<p style="margin: 6pt 0in; text-align: justify;"><span style="font-size:12px;"><span style="font-family:Arial,Helvetica,sans-serif;">Nội dung Logo thể hiện &yacute; nghĩa: Trường Đại học Đồng Th&aacute;p đ&atilde;, đang v&agrave; sẽ ph&aacute;t triển ổn định, bền vững về mọi mặt, để thực hiện nhiệm vụ chiến lược cơ bản l&agrave;: Đ&agrave;o tạo v&agrave; nghi&ecirc;n cứu khoa học tr&ecirc;n nền tảng đội ngũ c&aacute;n bộ, giảng vi&ecirc;n, c&ocirc;ng nh&acirc;n vi&ecirc;n c&oacute; tr&igrave;nh độ cao, c&ugrave;ng cơ sở vật chất, trang thiết bị chuẩn h&oacute;a v&agrave; hiện đại h&oacute;a; vững bước tr&ecirc;n con đường hội nhập &ndash; ph&aacute;t triển v&agrave; vươn đến tầm cao mới.</span></span></p>
+
+<p class="MsoNormal" style="margin-top:6.0pt">&nbsp;</p>
+
+<p>&nbsp;</p>
+</span></div>  
+                    </div>   
+                       
+
+                                    
+                                
+
+                  <br />
+                  <span id="ContentPlaceHolder1_lblAttached" class="contents"></span>
+                  
+                  <br />
+                  <br />
+                  <h4><span id="ContentPlaceHolder1_lblMore">XEM THÊM <a href='lists.aspx?idmn=41'> [Tất cả]</a></span></h4>
+                  <span id="ContentPlaceHolder1_lblEvents"><ul><a href='pView.aspx?idp=434&idmn=41'><li>10 điều bạn nên học tại DThU <i class='postdate view'>(03/01/2017)</i></li></a><a href='pView.aspx?idp=102&idmn=41'><li>Về đào tạo theo học chế tín chỉ <i class='postdate view'>(25/09/2011)</i></li></a><a href='pView.aspx?idp=101&idmn=41'><li>Về học, thi Ngoại ngữ - Tin học <i class='postdate view'>(25/09/2011)</i></li></a><a href='pView.aspx?idp=100&idmn=41'><li>Về học tín chỉ Giáo dục thể chất <i class='postdate view'>(25/09/2011)</i></li></a><a href='pView.aspx?idp=99&idmn=41'><li>Về học bổng chính sách <i class='postdate view'>(25/09/2011)</i></li></a><a href='pView.aspx?idp=98&idmn=41'><li>Về tín dụng đào tạo <i class='postdate view'>(25/09/2011)</i></li></a><a href='pView.aspx?idp=97&idmn=41'><li>Về trợ cấp xã hội <i class='postdate view'>(25/09/2011)</i></li></a><a href='pView.aspx?idp=96&idmn=41'><li>Về đánh giá kết quả rèn luyện <i class='postdate view'>(25/09/2011)</i></li></a><a href='pView.aspx?idp=94&idmn=41'><li>Về lĩnh vực giải quyết chế độ chính sách <i class='postdate view'>(25/09/2011)</i></li></a></ul></span> 
+                  <br />
+                  <div style="text-align:center">
+                    <span id="ContentPlaceHolder1_lblViewAll"></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+            </div>
+            <section class="probootstrap-cta">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">Dự tuyển vào DThU?</h2>
+                            <a href="Contact.aspx" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Tham gia</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <footer class="probootstrap-footer probootstrap-bg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="probootstrap-footer-widget">
+                                <h3>Giới thiệu về DThU</h3>
+                                <p>
+                                    <span id="lblIntroduce">Trường Đại học Đồng Tháp là trường đại học công lập, đào tạo đa ngành, đa lĩnh vực, trực thuộc Bộ Giáo dục và Đào tạo, được thành lập ngày 10/01/2003 theo Quyết định số 08/2003/QĐ-TTg của Thủ tướng Chính phủ và Công văn số 5830/VPCP-KGVX ngày 04/9/2008 về việc đổi tên Trường ĐHSP Đồng Tháp thành Trường Đại học Đồng Tháp.</span>
+                                    <a href="pView.aspx?idp=4&idmn=8">Chi tiết </a><i class="fa fa-angle-double-right"></i>
+                                </p>
+
+                                <h3>Chúng tôi tại</h3>
+                                <ul class="probootstrap-footer-social">
+                                    
+                                    <li><a href="Googlemap.aspx" target="_blank"><i class="icon-location2"></i></a></li>
+                                    <li><a href="https://www.facebook.com/dongthapuni/" target="_blank"><i class="icon-facebook2"></i></a></li>
+                                    
+                                    <li><a href="https://www.youtube.com/watch?time_continue=7&v=RZwG33su0yk&gidzl=vrZaJqOHZtFcHkDAJWg8SkP6xKvON8GZgXFj6bbOqdMlHEnD1Wk1SFHBlqLL1T5y_4Mq5JIGULqCHHA1UW" target="_blank"><i class="icon-youtube"></i></a></li>
+                                    
+                                </ul>
+
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-md-push-1">
+                            <div class="probootstrap-footer-widget">
+                                <h3>Liên kết</h3>
+                                <ul>
+                                    <li><a href="http://thuvien.dthu.edu.vn" target="_blank"><i class="icon-bullet"></i>Thư viện số</a></li>
+                                    <li><a href="http://khcn.dthu.edu.vn" target="_blank"><i class="icon-bullet"></i>Nhà khoa học</a></li>
+                                    <li><a href="https://htqt.dthu.edu.vn/" target="_blank"><i class="icon-bullet"></i>Hợp tác quốc tế</a></li>
+                                    <li><a href="https://tuyensinh.dthu.edu.vn" target="_blank"><i class="icon-bullet"></i>Tuyển sinh</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="probootstrap-footer-widget">
+                                <h3>Liên hệ</h3>
+                                <ul class="probootstrap-contact-info">
+                                    <li><i class="icon-location2"></i><span>783 Phạm Hữu Lầu, Phường Cao Lãnh, tỉnh Đồng Tháp</span></li>
+                                    <li><i class="icon-mail"></i><span>dhdt@dthu.edu.vn</span></li>
+                                    <li><i class="icon-phone2"></i><span>0277 388 1518</span></li>
+                                    <li><i class="icon-fax"></i><span>0277 388 1713</span></li>
+<li><i class="icon-facebook2"></i><span><a href="https://www.facebook.com/dongthapuni">https://www.facebook.com/dongthapuni</a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- END row -->
+
+                </div>
+
+                <div class="probootstrap-copyright">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8 text-left">
+
+                                <p>&copy; 2020 <a href="https://dthu.edu.vn/">Trường Đại học Đồng Tháp</a>. Phát triển bởi <a href="http://khcn.dthu.edu.vn/Author.aspx?id=D2570290000290">Lương Thái Ngọc</a>, sử dụng công nghệ <a href="https://probootstrap.com/">Bootstrap</a></p>
+                            </div>
+                            <div class="col-md-4 probootstrap-back-to-top">
+                                
+                Đang online:
+                                <span id="lblOnline">4684</span>
+                                - Đã truy cập:
+                                <span id="lblVisited">52758029</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            
+          
+        </div>
+          
+<div class="thau">
+        
+        <input name="ctl00$txtSeries" type="text" value="[613, 818, 1267, 1711, 1966, 2123, 2290, 1302]" id="txtSeries" />
+
+        <input name="ctl00$txtSeries1" type="text" value="[2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]" id="txtSeries1" />
+
+</div>
+
+        <!-- END wrapper -->
+
+        <style>
+            .thau {
+                display: none;
+            }
+        </style>
+        <!-- END wrapper -->
+    </form>
+
+    <a href="#" class="js-backtotop"><i class="fa fa-level-up fa-2x"></i></a>
+    <script src="js/scripts.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/custom.js"></script>
+
+    
+    <script>
+        $(document).ready(function () {
+            var $window = $(window);
+            function checkWidth() {
+                if ($window.width() < 980) {
+                    $('#chanimg img').removeAttr('style').addClass('img-responsive');
+                };
+            }
+            checkWidth();
+            // Bind event listener
+            $(window).resize(checkWidth);
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+            var $window = $(window);
+            function checkWidth() {
+                if ($window.width() < 980) {
+                    $('#pview img').removeAttr('style').addClass('img-responsive');
+                };
+            }
+            checkWidth();
+            // Bind event listener
+            $(window).resize(checkWidth);
+        });
+    </script>
+    
+    <script>
+        function heartBeat() {
+            $.get("KeepAlive.ashx?", function (data) { });
+        }
+        $(function () {
+            setInterval("heartBeat()", 1000 * 30); // 30s gửi request một lần
+        });
+   </script>
+    
+     <div id="fb-root"></div>
+     <script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+     <script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/vi_VN/all.js#xfbml=1&appId=4110973998969870";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    
+     <script src="https://sp.zalo.me/plugins/sdk.js"></script>
+        <div class="zalo-chat-widget" data-oaid="3310098993588621225" data-welcome-message="Rất vui khi được hỗ trợ bạn!" data-autopopup="0" data-width="300" data-height="300" style="float:left!important"></div>
+     
+    <style> 
+        .contents> a {
+ word-break:break-all;
+                        }
+        .contents p {
+            margin-bottom: 10px !important;
+            font-family: 'Roboto Condensed', sans-serif, Arial !important;
+            font-size: 16px;
+        }
+
+        .contents span {
+            font-family: 'Roboto Condensed', sans-serif, Arial !important;
+        }
+    </style>
+     
+    <script>
+        $(document).ready(function () {
+            $('#chanimg img').each(function () {
+                var currentImage = $(this);
+                currentImage.wrap("<a class='fancybox' rel='group' target='_blank' href='" + currentImage.attr("src") + "'</a>");
+            });
+        });
+        </script>
+    <script src="css/fancybox/jquery.fancybox.js"></script>
+   
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".fancybox").fancybox({
+                maxWidth: 800,
+                maxHeight: 600
+            });
+        });
+    </script>
+    
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script>
+ 	var xAxis = JSON.parse(document.getElementById('txtSeries1').value);
+        var series = JSON.parse(document.getElementById('txtSeries').value);
+        //var xAxis = [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025];
+        //var series = [613, 817, 1264, 1713, 1970, 2120, 2289, 1024];
+
+        Highcharts.chart('container_234567', {
+            chart: {
+                type: 'column'
+            },
+
+            title: {
+                text: ''
+            },
+
+            xAxis: {
+                categories: xAxis,
+                labels: {
+                    style: {
+                        color: 'black',
+                        fontSize: '0.8em',
+                        fontFamily: 'Arial,sans-serif',
+                        fontWeight: 'bold'
+                    }
+                }
+            },
+            series: [{
+                showInLegend: false,
+                name: 'Citations',
+                data: series,
+                pointPadding: 0,
+                borderWidth: 0,
+                color: '#73a5f7'
+            }],
+            yAxis: {
+                title: {
+                    text: null
+                }
+            },
+            credits: {
+                enabled: false
+            }
+        });
+    </script>
+<style>
+        .gs_el_sm .gsc_rsb {
+            margin-top: 16px;
+        }
+
+        .gsc_rsb {
+            float: right;
+            width: 317px;
+            order: 4;
+            border-left: 1px solid #eee;
+            margin-top: 32px;
+        }
+
+        .gs_el_sm #gsc_rsb_gpl {
+            margin-top: 0;
+        }
+
+        #gsc_rsb_gpl {
+            display: block;
+            margin-top: 3px;
+            padding: 6px 16px;
+            line-height: 14px;
+            color: #0461f9;
+            border: 1px solid #4d90fe;
+            border-radius: 2px;
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+        .gs_el_sm .gsc_rsb_s {
+            /* margin: 0 0 32px 16px; */
+            margin-top: 0px;
+        }
+
+        .gsc_rsb_s:last-child {
+            margin-bottom: 0;
+        }
+
+        .gs_el_sm .gsc_rsb_s {
+            /* margin: 0 0 32px 16px; */
+            margin-bottom: 32px;
+        }
+
+        .gsc_rsb_s {
+            /* margin: 0 0 48px 16px; */
+            position: relative;
+            padding-bottom: 10px;
+        }
+
+        .gs_el_sm .gsc_rsb_header {
+            padding: 4px 8px 9px 8px;
+        }
+
+        .gsc_rsb_header {
+            padding: 0px 0px 10px 0px;
+            border-bottom: 1px solid #e5e5e5;
+            font-weight: bold;
+            font-size: 14px;
+            font-family: Arial,sans-serif;
+        }
+
+        #gsc_rsb_st {
+            width: 100%;
+        }
+
+        .gs_el_sm .gsc_rsb_sth {
+            padding: 4px 8px 4px 0;
+        }
+
+        .gs_el_sm .gsc_rsb_sc1 {
+            padding: 0 8px;
+        }
+
+        .gsc_rsb_sc1 {
+            text-align: left;
+            padding: 2px 8px;
+            font-size: 14px;
+        }
+
+        .gsc_rsb_std {
+            text-align: right;
+            padding-right: 8px;
+            font-size: 14px;
+        }
+
+        .gs_el_sm .gsc_rsb_sth {
+            padding: 4px 8px 4px 0;
+        }
+
+        .gsc_rsb_sth {
+            font-weight: normal;
+            padding: 0px 8px 8px 0;
+            border-bottom: 1px solid #e5e5e5;
+            text-align: right;
+            font-size: 14px;
+        }
+    </style>
+</body>
+</html>
